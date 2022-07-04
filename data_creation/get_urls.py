@@ -1,7 +1,7 @@
 import requests
 import re
 all_urls = []
-total_pages = 100 #851559
+total_pages = 200 #851559
 misses = []
 for i in range(total_pages): 
     try:
