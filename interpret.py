@@ -7,6 +7,12 @@ def get_df():
         lines = [line.replace('[', '') for line in lines]
     return pd.DataFrame( [line.split('|') for line in lines])
 
+df = get_df()
+def get_song(i):
+    row = df.iloc[i]
+    return row[1], row[2], row[3].replace("'", '').replace(" ", '').split(',')
+
+
 notes = ["C", "C#", "D","D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
 
 def get_note(index):
@@ -14,6 +20,11 @@ def get_note(index):
 
 def get_interval(note, interval):
     return get_note(notes.index(note) + interval)
+
+def get_interval_between(start, end):
+    mod =  (notes.index(end) - notes.index(start)) % 12
+    return mod if mod > 0 else (12 + mod) % 12
+
 
 def convert_note_to_sharp(note):
     if "b" not in note:
@@ -71,16 +82,41 @@ def get_key(chords):
     return key, percentage_off
 
 
-df = get_df()
-for i in range(100):
+def get_relative_information(key, chord_name):
+    root, extension = get_root_and_extension(chord_name)
+    return {"half_steps_from_root":get_interval_between(key, root), "extension": extension, "is_minor": is_minor(chord_name), 'chord_name': chord_name}
 
-    row = df.iloc[i]
-    chords = row[3].replace("'", '').replace(" ", '').split(',')
-    if len(chords)< 2:
-        continue
-    print(row[1], row[2])
-    print(chords)
+def get_relative_chords(chords):
+    return [get_relative_information(get_key(chords)[0], chord) for chord in chords]
 
+def display(half_steps_from_root, is_minor, extension):
+    root = {
+        0: "ONE",
+        1: "FLAT TWO",
+        2: "TWO",
+        3: "FLAT THREE",
+        4: "THREE",
+        5: "FOUR",
+        6: "FLAT FIVE",
+        7: "FIVE",
+        8: "FLAT SIX",
+        9: "SIX",
+        10: "FLAT SEVEN",
+        11: "FLAT SEVEN",        
+    }[half_steps_from_root]
+    tonality = "MIN" if is_minor else "MAJ"
+    if is_minor ^ (root in ["ONE", "FOUR", "FIVE"]):
+        return root
+    return f"{tonality} {root}"    
+    
+
+
+def get_formatted_relative_chords(chords):
+    return [display(x['half_steps_from_root'], x['is_minor'], x['extension']) for x in get_relative_chords(chords)]
+
+for i in range(200):
+    name, artist, chords = get_song(i)
+    if len(chords)< 2: continue
+    print(name, artist)
+    print(get_formatted_relative_chords(chords))
     print(get_key(chords))
-    print()
-
