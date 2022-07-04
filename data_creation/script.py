@@ -16,7 +16,7 @@ def get_info(content):
     song_name = try_set(re.findall(r'\"byArtist\":.*?\"name.*?name\":\"(.*?)\"',content)[0])
     artist = try_set(re.findall(r'\"byArtist\":.*?name\":\"(.*?)\"',content)[0])
     return artist, song_name, chords
-f = open("results.txt", 'w')
+f = open("data/results.txt", 'w')
 for api_url in list_of_urls:
     cache_url = f"http://webcache.googleusercontent.com/search?q=cache:{api_url}&strip=0&vwsrc=1"
     response = requests.get(api_url)

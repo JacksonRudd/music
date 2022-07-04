@@ -2,7 +2,7 @@ import pandas as pd
 from operator import itemgetter
 
 def get_df():
-    with open('results.txt') as f:
+    with open('data/results.txt') as f:
         lines = f.readlines()[0].split("]h")
         lines = [line.replace('[', '') for line in lines]
     return pd.DataFrame( [line.split('|') for line in lines])
@@ -114,7 +114,8 @@ def display(half_steps_from_root, is_minor, extension):
 def get_formatted_relative_chords(chords):
     return [display(x['half_steps_from_root'], x['is_minor'], x['extension']) for x in get_relative_chords(chords)]
 
-for i in range(200):
+
+for i in range(10):
     name, artist, chords = get_song(i)
     if len(chords)< 2: continue
     print(name, artist)
