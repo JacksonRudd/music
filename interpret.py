@@ -1,6 +1,8 @@
 import pandas as pd
 from operator import itemgetter
 
+from get_chord_progression import get_chord_progression
+
 def get_df():
     with open('data/results.txt') as f:
         lines = f.readlines()[0].split("]h")
@@ -114,30 +116,17 @@ def display(half_steps_from_root, is_minor, extension):
 def get_formatted_relative_chords(chords):
     return [display(x['half_steps_from_root'], x['is_minor'], x['extension']) for x in get_relative_chords(chords)]
 
-def append_return(list, item):
-    new_list = list.copy()
-    new_list.insert(0, item)
-    return new_list
 
-def get_all_subsequences(chords):
-    for i in range(len(chords)):
-        for j in range(0,len(chords) - i):
-            yield chords[i:i+j]
-
-def get_all_repeats(subs):
-    for sub in subs: 
-        for i in range(2,10):
-            if sub[0:int(len(sub)/i)]*i == sub and len(sub) > 1:
-                yield (sub[0:int(len(sub)/i)], i)
-
-for i in range(10):
+for i in range(100):
     name, artist, chords = get_song(i)
     if len(chords)< 2: continue
     print(name, artist)
     #print(get_formatted_relative_chords(chords))
     print(get_key(chords))
-    subs = get_all_subsequences(get_formatted_relative_chords(chords))
-    repeats = get_all_repeats(subs)
-    print(max(repeats, key=lambda x: x[1]))
+    get_chord_progression(chords)
+    try:
+        print(chords)
+    except Exception as e:
+        print(e)
     print()
 

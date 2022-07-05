@@ -15,10 +15,10 @@ for i in range(total_pages):
         misses.append(i)
 
 
-file=open('all_urls.txt','w')
-for items in all_urls:
-    file.writelines([items, '\n'])
+# file=open('all_urls.txt','w')
+# for items in all_urls:
+#     file.writelines([items, '\n'])
 
-file=open('misses.txt','w')
-for items in misses:
-    file.writelines([items, '\n'])
+# file=open('misses.txt','w')
+# for items in misses:
+#     file.writelines([items, '\n'])
