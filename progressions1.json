@@ -1,0 +1,3087 @@
+{
+    "['ONE', 'THREE', 'SIX', 'FOUR', 'ONE', 'FIVE', 'FOUR', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE', 'ONE']": [
+        "(' Cant Help Falling In Love ', ' Elvis Presley ')"
+    ],
+    "['TWO', 'MAJ SIX']": [
+        "(' Cant Help Falling In Love ', ' Elvis Presley ')",
+        "(' Dont Stop Me Now ', ' Queen ')",
+        "(' Paint It Black ', ' The Rolling Stones ')"
+    ],
+    "['FOUR', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE', 'ONE', 'ONE']": [
+        "(' Cant Help Falling In Love ', ' Elvis Presley ')"
+    ],
+    "['SIX', 'TWO', 'FIVE', 'ONE']": [
+        "(' Glimpse Of Us ', ' Joji ')",
+        "(' Island In The Sun ', ' Weezer ')",
+        "(' I Will Survive ', ' Gloria Gaynor ')",
+        "(' Dont Cry ', \" Guns N\\\\' Roses \")",
+        "(' Fly Me To The Moon ', ' Frank Sinatra ')",
+        "(' This Love ', ' Maroon 5 ')"
+    ],
+    "['TWO', 'FIVE', 'ONE', 'FIVE', 'SIX']": [
+        "(' Glimpse Of Us ', ' Joji ')",
+        "(' A Star Is Born - Shallow ', ' Misc Soundtrack ')",
+        "(' Dancing In The Moonlight ', ' Toploader ')",
+        "(' Flower Shops ', ' Ernest ')"
+    ],
+    "['ONE', 'SIX', 'FOUR', 'FIVE']": [
+        "(' Perfect ', ' Ed Sheeran ')",
+        "(' Complicated ', ' Avril Lavigne ')",
+        "(' Line Without A Hook ', ' Ricky Montgomery ')",
+        "(' In The Aeroplane Over The Sea ', ' Neutral Milk Hotel ')",
+        "(' Hero ', ' Enrique Iglesias ')",
+        "(' Last Kiss ', ' Pearl Jam ')",
+        "(' Baby ', ' Justin Bieber ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Perfect ', ' Ed Sheeran ')",
+        "(' Zombie ', ' The Cranberries ')",
+        "(' Hurt ', ' Johnny Cash ')",
+        "(' All Of Me ', ' John Legend ')",
+        "(' A Star Is Born - Always Remember Us This Way ', ' Misc Soundtrack ')",
+        "(' All I Want ', ' Kodaline ')",
+        "(' Drivers License ', ' Olivia Rodrigo ')",
+        "(' Love Story ', ' Taylor Swift ')",
+        "(' Wake Me Up ', ' Avicii ')",
+        "(' Africa ', ' Toto ')",
+        "(' Funeral ', ' Phoebe Bridgers ')",
+        "(' Otherside ', ' Red Hot Chili Peppers ')",
+        "(' Castle On The Hill ', ' Ed Sheeran ')",
+        "(' Ghost ', ' Justin Bieber ')",
+        "(' Little Talks ', ' Of Monsters and Men ')",
+        "(' Numb ', ' Linkin Park ')",
+        "(' 21 Guns ', ' Green Day ')",
+        "(' Complicated ', ' Avril Lavigne ')",
+        "(' Grenade ', ' Bruno Mars ')",
+        "(' Say Something ', ' A Great Big World ')",
+        "(' Oceans Where Feet May Fail ', ' Hillsong United ')",
+        "(' Shivers ', ' Ed Sheeran ')",
+        "(' Hello ', ' Adele ')",
+        "(' Without You ', ' The Kid LAROI ')",
+        "(' You Raise Me Up ', ' Josh Groban ')",
+        "(' Snow Hey Oh ', ' Red Hot Chili Peppers ')",
+        "(' Yours ', ' Conan Gray ')",
+        "(' Despacito ', ' Luis Fonsi ')",
+        "(' Movies ', ' Conan Gray ')",
+        "(' In The Aeroplane Over The Sea ', ' Neutral Milk Hotel ')",
+        "(' Save Tonight ', ' Eagle-Eye Cherry ')",
+        "(' The Greatest Showman - Rewrite The Stars ', ' Misc Soundtrack ')",
+        "(' Holiday ', ' Green Day ')",
+        "(' Wasted On You ', ' Morgan Wallen ')",
+        "(' Be Alright ', ' Dean Lewis ')",
+        "(' Heading South ', ' Zach Bryan ')",
+        "(' Promises ', ' Maverick City Music ')",
+        "(' Apologize ', ' OneRepublic ')",
+        "(' The Blessing ', ' Elevation Worship ')",
+        "(' Snap ', ' Rosa Linn ')",
+        "(' Disarm ', ' The Smashing Pumpkins ')"
+    ],
+    "['SIX', 'MAJ THREE', 'FIVE', 'MAJ TWO', 'FOUR', 'ONE', 'TWO', 'MAJ THREE']": [
+        "(' Hotel California ', ' Eagles ')"
+    ],
+    "['ONE', 'SIX']": [
+        "(' Hallelujah ', ' Jeff Buckley ')",
+        "(' Hey There Delilah ', \" Plain White T\\\\'s \")",
+        "(' Hallelujah ', ' Leonard Cohen ')",
+        "(' Sparks ', ' Coldplay ')",
+        "(' If I Can Dream ', ' Elvis Presley ')",
+        "(' My Sweet Lord ', ' George Harrison ')",
+        "(' Dancing In The Dark ', ' Bruce Springsteen ')",
+        "(' Mrs Robinson ', ' Simon & Garfunkel ')",
+        "(' Stay ', ' Post Malone ')",
+        "(' Big Iron ', ' Marty Robbins ')",
+        "(' Rivers And Roads ', ' The Head and the Heart ')",
+        "(' Exile ', ' Taylor Swift ')"
+    ],
+    "['FOUR', 'SIX', 'FOUR', 'ONE', 'FIVE', 'ONE']": [
+        "(' Hallelujah ', ' Jeff Buckley ')"
+    ],
+    "['TWO', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Wonderwall ', ' Oasis ')",
+        "(' Boulevard Of Broken Dreams ', ' Green Day ')",
+        "(' Californication ', ' Red Hot Chili Peppers ')",
+        "(' Radioactive ', ' Imagine Dragons ')",
+        "(' Mad World ', ' Gary Jules ')",
+        "(' Runaway ', ' AURORA ')",
+        "(' Pumped Up Kicks ', ' Foster the People ')",
+        "(' I Know The End ', ' Phoebe Bridgers ')"
+    ],
+    "['ONE', 'THREE', 'FIVE', 'THREE']": [
+        "(' Wonderwall ', ' Oasis ')"
+    ],
+    "['SIX', 'SIX']": [
+        "(' Running Up That Hill ', ' Kate Bush ')",
+        "(' Bohemian Rhapsody ', ' Queen ')",
+        "(' Losing My Religion ', ' R.E.M. ')",
+        "(' Beggin ', ' M\\\\xc3\\\\xa5neskin ')",
+        "(' Stay ', ' Rihanna ')",
+        "(' Running Up That Hill ', ' Placebo ')",
+        "(' Little Talks ', ' Of Monsters and Men ')",
+        "(' Toxic ', ' Britney Spears ')",
+        "(' A Day In The Life ', ' The Beatles ')",
+        "(' Tribute ', ' Tenacious D ')",
+        "(' Highwayman ', ' The Highwaymen ')"
+    ],
+    "['FOUR', 'FIVE', 'SIX', 'THREE']": [
+        "(' Running Up That Hill ', ' Kate Bush ')",
+        "(' Stay ', ' The Kid LAROI ')"
+    ],
+    "['FOUR', 'FIVE', 'SIX']": [
+        "(' Running Up That Hill ', ' Kate Bush ')",
+        "(' Talking To The Moon ', ' Bruno Mars ')",
+        "(' I Want It That Way ', ' Backstreet Boys ')",
+        "(' Ocean Eyes ', ' Billie Eilish ')",
+        "(' Hey There Delilah ', \" Plain White T\\\\'s \")",
+        "(' Wonderwall ', ' Oasis ')",
+        "(' Running Up That Hill ', ' Placebo ')",
+        "(' Dont Cry ', \" Guns N\\\\' Roses \")",
+        "(' Story Of My Life ', ' One Direction ')",
+        "(' High School Musical - All I Want ', ' Misc Television ')",
+        "(' Between The Bars ', ' Elliott Smith ')"
+    ],
+    "['FOUR', 'ONE', 'TWO']": [
+        "(' Running Up That Hill ', ' Kate Bush ')",
+        "(' Ob-La-Di Ob-La-Da ', ' The Beatles ')"
+    ],
+    "['SIX', 'FOUR', 'FIVE']": [
+        "(' Running Up That Hill ', ' Kate Bush ')",
+        "(' Let Her Go ', ' Passenger ')",
+        "(' Someone Like You ', ' Adele ')",
+        "(' Hey There Delilah ', \" Plain White T\\\\'s \")",
+        "(' Redemption Song ', ' Bob Marley ')",
+        "(' 10000 Reasons Bless The Lord ', ' Matt Redman ')",
+        "(' Wind Of Change ', ' Scorpions ')",
+        "(' Go Your Own Way ', ' Fleetwood Mac ')",
+        "(' Every Breath You Take ', ' The Police ')",
+        "(' Livin On A Prayer ', ' Bon Jovi ')"
+    ],
+    "['SIX', 'MAJ SIX']": [
+        "(' Running Up That Hill ', ' Kate Bush ')"
+    ],
+    "['ONE', 'MAJ THREE', 'FOUR', 'MIN FOUR']": [
+        "(' Creep ', ' Radiohead ')",
+        "(' Best Friend ', ' Rex Orange County ')"
+    ],
+    "['SIX', 'FIVE', 'ONE']": [
+        "(' Riptide ', ' Vance Joy ')",
+        "(' I Wont Back Down ', ' Tom Petty ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'FOUR']": [
+        "(' Riptide ', ' Vance Joy ')",
+        "(' Summer Of 69 ', ' Bryan Adams ')",
+        "(' Stitches ', ' Shawn Mendes ')",
+        "(' No Longer Slaves ', ' Bethel Music ')"
+    ],
+    "['ONE', 'SIX', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Take Me Home Country Roads ', ' John Denver ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Take Me Home Country Roads ', ' John Denver ')"
+    ],
+    "['FOUR', 'TWO', 'FIVE', 'ONE']": [
+        "(' As It Was ', ' Harry Styles ')"
+    ],
+    "['SIX', 'MAJ THREE']": [
+        "(' House Of The Rising Sun ', ' The Animals ')",
+        "(' Youve Got A Friend ', ' James Taylor ')",
+        "(' Hells Comin With Me ', \" Poor Man\\\\'s Poison \")"
+    ],
+    "['MAJ THREE', 'SIX', 'ONE', 'MAJ TWO', 'FOUR', 'SIX']": [
+        "(' House Of The Rising Sun ', ' The Animals ')"
+    ],
+    "['SIX', 'TWO']": [
+        "(' House Of The Rising Sun ', ' The Animals ')",
+        "(' American Pie ', ' Don McLean ')",
+        "(' Take Me To Church ', ' Hozier ')",
+        "(' Tek It ', ' Cafun\\\\xc3\\\\xa9 ')",
+        "(' Gimme Gimme Gimme ', ' ABBA ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' A Star Is Born - Shallow ', ' Misc Soundtrack ')",
+        "(' I Will Wait ', ' Mumford & Sons ')"
+    ],
+    "['FIVE', 'FOUR', 'FIVE', 'SIX']": [
+        "(' Let Her Go ', ' Passenger ')",
+        "(' The Greatest Showman - A Million Dreams ', ' Misc Soundtrack ')",
+        "(' Before He Cheats ', ' Carrie Underwood ')"
+    ],
+    "['FOUR', 'ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Let Her Go ', ' Passenger ')"
+    ],
+    "['SIX', 'FOUR', 'FIVE', 'THREE', 'SIX', 'FOUR', 'FIVE']": [
+        "(' Let Her Go ', ' Passenger ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR']": [
+        "(' Yellow ', ' Coldplay ')",
+        "(' Take It Easy ', ' Eagles ')",
+        "(' Drops Of Jupiter ', ' Train ')",
+        "(' Dancing On My Own ', ' Calum Scott ')",
+        "(' Feathered Indians ', ' Tyler Childers ')",
+        "(' Hero ', ' Enrique Iglesias ')",
+        "(' Runaway ', ' AURORA ')",
+        "(' All The Small Things ', ' Blink-182 ')",
+        "(' Go Your Own Way ', ' Fleetwood Mac ')",
+        "(' Kiss From A Rose ', ' Seal ')",
+        "(' Drift Away ', ' Dobie Gray ')",
+        "(' The Boys Of Summer ', ' Don Henley ')"
+    ],
+    "['FOUR', 'SIX', 'FIVE']": [
+        "(' Yellow ', ' Coldplay ')",
+        "(' Summertime Sadness ', ' Lana Del Rey ')",
+        "(' Stand By Me ', ' Oasis ')",
+        "(' Wildest Dreams ', ' Taylor Swift ')",
+        "(' Great Are You Lord ', ' All Sons & Daughters ')"
+    ],
+    "['TWO', 'FOUR']": [
+        "(' Wish You Were Here ', ' Pink Floyd ')",
+        "(' Good Riddance Time Of Your Life ', ' Green Day ')",
+        "(' You Belong With Me ', ' Taylor Swift ')"
+    ],
+    "['ONE', 'FOUR']": [
+        "(' Dont Look Back In Anger ', ' Oasis ')",
+        "(' Take Me Home Country Roads ', ' John Denver ')",
+        "(' Matilda ', ' Harry Styles ')",
+        "(' Karma Police ', ' Radiohead ')",
+        "(' Patience ', \" Guns N\\\\' Roses \")",
+        "(' Half The World Away ', ' Oasis ')",
+        "(' Thank You ', ' Dido ')",
+        "(' Leaving On A Jet Plane ', ' John Denver ')",
+        "(' Ho Hey ', ' The Lumineers ')",
+        "(' Funeral ', ' Phoebe Bridgers ')",
+        "(' Peaceful Easy Feeling ', ' Eagles ')",
+        "(' Sand In My Boots ', ' Morgan Wallen ')",
+        "(' You Are My Sunshine ', ' Johnny Cash ')",
+        "(' Bohemian Rhapsody ', ' Queen ')",
+        "(' Bridge Over Troubled Water ', ' Simon & Garfunkel ')",
+        "(' The Gambler ', ' Kenny Rogers ')",
+        "(' Every Rose Has Its Thorn ', ' Poison ')",
+        "(' Lyin Eyes ', ' Eagles ')",
+        "(' I Love You ', ' Billie Eilish ')",
+        "(' Teenage Dirtbag ', ' Wheatus ')",
+        "(' Angel From Montgomery ', ' John Prine ')",
+        "(' The River ', ' Bruce Springsteen ')",
+        "(' Mr Tambourine Man ', ' Bob Dylan ')",
+        "(' Should I Stay Or Should I Go ', ' The Clash ')",
+        "(' Heroes ', ' David Bowie ')",
+        "(' Youve Got A Friend ', ' James Taylor ')",
+        "(' Tiny Dancer ', ' Elton John ')",
+        "(' Lady May ', ' Tyler Childers ')",
+        "(' Black ', ' Pearl Jam ')",
+        "(' Slow Dancing In The Dark ', ' Joji ')",
+        "(' Burning Love ', ' Elvis Presley ')",
+        "(' Living Hope ', ' Phil Wickham ')",
+        "(' Accidentally In Love ', ' Counting Crows ')",
+        "(' Everybody Hurts ', ' R.E.M. ')",
+        "(' Circles ', ' Post Malone ')",
+        "(' As The World Caves In ', ' Matt Maltese ')",
+        "(' I Know The End ', ' Phoebe Bridgers ')",
+        "(' Daylight ', ' Harry Styles ')",
+        "(' Cleopatra ', ' The Lumineers ')",
+        "(' The Climb ', ' Miley Cyrus ')",
+        "(' Both Sides Now ', ' Joni Mitchell ')",
+        "(' Like A Rolling Stone ', ' Bob Dylan ')",
+        "(' Falling Slowly ', ' Glen Hansard ')",
+        "(' Wholl Stop The Rain ', ' Creedence Clearwater Revival ')",
+        "(' For What Its Worth ', ' Buffalo Springfield ')",
+        "(' Twinkle Twinkle Little Star ', ' Misc Children ')",
+        "(' This Is Amazing Grace ', ' Phil Wickham ')",
+        "(' To Be With You ', ' Mr. Big ')",
+        "(' My Girl ', ' The Temptations ')",
+        "(' Total Eclipse Of The Heart ', ' Bonnie Tyler ')",
+        "(' Mamma Mia - Dancing Queen ', ' Misc Soundtrack ')",
+        "(' Big Yellow Taxi ', ' Joni Mitchell ')",
+        "(' Mother ', ' Pink Floyd ')",
+        "(' Forever And Ever Amen ', ' Randy Travis ')"
+    ],
+    "['FOUR', 'MIN FOUR', 'ONE']": [
+        "(' Dont Look Back In Anger ', ' Oasis ')",
+        "(' Space Oddity ', ' David Bowie ')",
+        "(' Halleys Comet ', ' Billie Eilish ')",
+        "(' Wake Me Up When September Ends ', ' Green Day ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'MAJ THREE', 'FOUR', 'FIVE', 'ONE', 'SIX', 'FIVE']": [
+        "(' Dont Look Back In Anger ', ' Oasis ')"
+    ],
+    "['ONE', 'SIX', 'FOUR']": [
+        "(' Until I Found You ', ' Stephen Sanchez ')",
+        "(' Every Breath You Take ', ' The Police ')",
+        "(' This Town ', ' Niall Horan ')",
+        "(' Little Lion Man ', ' Mumford & Sons ')",
+        "(' Rivers And Roads ', ' The Head and the Heart ')",
+        "(' Sex On Fire ', ' Kings of Leon ')"
+    ],
+    "['SIX', 'TWO', 'FIVE', 'ONE', 'THREE']": [
+        "(' Glimpse Of Us ', ' Joji ')"
+    ],
+    "['TWO', 'FIVE', 'ONE', 'THREE', 'SIX']": [
+        "(' Glimpse Of Us ', ' Joji ')"
+    ],
+    "['SIX', 'FOUR']": [
+        "(' Zombie ', ' The Cranberries ')",
+        "(' Californication ', ' Red Hot Chili Peppers ')",
+        "(' Tequila Sunrise ', ' Eagles ')"
+    ],
+    "['THREE', 'ONE']": [
+        "(' Zombie ', ' The Cranberries ')",
+        "(' Something In The Way ', ' Nirvana ')",
+        "(' Wild Horses ', ' The Rolling Stones ')",
+        "(' Otherside ', ' Red Hot Chili Peppers ')",
+        "(' Francis Forever ', ' Mitski ')",
+        "(' Need You Now ', ' Lady A (Lady Antebellum) ')"
+    ],
+    "['ONE', 'MAJ THREE', 'SIX', 'TWO']": [
+        "(' Happier Than Ever ', ' Billie Eilish ')",
+        "(' First Day Of My Life ', ' Bright Eyes ')"
+    ],
+    "['ONE', 'MAJ THREE', 'SIX', 'FOUR', 'MIN FOUR']": [
+        "(' Happier Than Ever ', ' Billie Eilish ')"
+    ],
+    "['ONE', 'MAJ THREE', 'SIX', 'FOUR']": [
+        "(' Happier Than Ever ', ' Billie Eilish ')",
+        "(' Im Not The Only One ', ' Sam Smith ')"
+    ],
+    "['FLAT SEVEN', 'MAJ THREE', 'SIX', 'SIX', 'FOUR', 'TWO', 'FIVE', 'ONE']": [
+        "(' Yesterday ', ' The Beatles ')"
+    ],
+    "['ONE', 'ONE', 'FIVE', 'ONE']": [
+        "(' Have You Ever Seen The Rain ', ' Creedence Clearwater Revival ')",
+        "(' Lean On Me ', ' Bill Withers ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'ONE', 'SIX', 'SIX']": [
+        "(' Have You Ever Seen The Rain ', ' Creedence Clearwater Revival ')"
+    ],
+    "['FIVE', 'SIX', 'ONE', 'FIVE']": [
+        "(' Whats Up ', ' 4 Non Blondes ')",
+        "(' Dont Worry Be Happy ', ' Bobby McFerrin ')"
+    ],
+    "['ONE', 'TWO', 'FOUR', 'SIX', 'FIVE', 'FOUR']": [
+        "(' Iris ', ' Goo Goo Dolls ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR']": [
+        "(' Iris ', ' Goo Goo Dolls ')",
+        "(' Nothing Else Matters ', ' Metallica ')",
+        "(' Reckless Love ', ' Cory Asbury ')",
+        "(' Dancing On My Own ', ' Calum Scott ')",
+        "(' What A Beautiful Name ', ' Hillsong Worship ')",
+        "(' Burning Love ', ' Elvis Presley ')",
+        "(' Perfect Day ', ' Lou Reed ')",
+        "(' Separate Ways ', ' Journey ')",
+        "(' Treat You Better ', ' Shawn Mendes ')",
+        "(' I Wanna Be Yours ', ' Arctic Monkeys ')",
+        "(' So Far Away ', ' Avenged Sevenfold ')"
+    ],
+    "['SIX', 'SIX', 'FOUR', 'FOUR']": [
+        "(' Iris ', ' Goo Goo Dolls ')"
+    ],
+    "['ONE', 'THREE', 'SIX', 'FOUR']": [
+        "(' Someone Like You ', ' Adele ')",
+        "(' Over The Rainbow ', ' Israel Kamakawiwo\\\\xca\\\\xbbole ')",
+        "(' Traitor ', ' Olivia Rodrigo ')",
+        "(' You Say ', ' Lauren Daigle ')",
+        "(' Cruel Summer ', ' Taylor Swift ')",
+        "(' Abcdefu Angrier ', ' GAYLE ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FOUR']": [
+        "(' Someone Like You ', ' Adele ')",
+        "(' Im Yours ', ' Jason Mraz ')",
+        "(' Photograph ', ' Ed Sheeran ')",
+        "(' Someone You Loved ', ' Lewis Capaldi ')",
+        "(' Wagon Wheel ', ' Darius Rucker ')",
+        "(' Over The Rainbow ', ' Israel Kamakawiwo\\\\xca\\\\xbbole ')",
+        "(' Say You Wont Let Go ', ' James Arthur ')",
+        "(' Frozen - Let It Go ', ' Misc Cartoons ')",
+        "(' Take On Me ', ' a-ha ')",
+        "(' All Too Well ', ' Taylor Swift ')",
+        "(' With Or Without You ', ' U2 ')",
+        "(' Hey Soul Sister ', ' Train ')",
+        "(' Ghost ', ' Justin Bieber ')",
+        "(' Demons ', ' Imagine Dragons ')",
+        "(' Encanto - We Dont Talk About Bruno ', ' Misc Cartoons ')",
+        "(' Youre Beautiful ', ' James Blunt ')",
+        "(' No Woman No Cry ', ' Bob Marley ')",
+        "(' Torn ', ' Natalie Imbruglia ')",
+        "(' She Used To Be Mine ', ' Sara Bareilles ')",
+        "(' Top Gun Maverick - Hold My Hand ', ' Misc Soundtrack ')",
+        "(' Breakeven ', ' The Script ')",
+        "(' Wherever You Will Go ', ' The Calling ')",
+        "(' Champagne Problems ', ' Taylor Swift ')",
+        "(' Blessed Be Your Name ', ' Matt Redman ')",
+        "(' 2002 ', ' Anne-Marie ')",
+        "(' Snap ', ' Rosa Linn ')",
+        "(' When I Come Around ', ' Green Day ')"
+    ],
+    "['ONE', 'FOUR', 'SIX', 'TWO', 'FOUR', 'FIVE', 'ONE']": [
+        "(' Hey Jude ', ' The Beatles ')"
+    ],
+    "['FIVE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Hey Jude ', ' The Beatles ')",
+        "(' Sweet Child O Mine ', \" Guns N\\\\' Roses \")",
+        "(' Mamma Mia ', ' ABBA ')",
+        "(' Cant You See ', ' The Marshall Tucker Band ')"
+    ],
+    "['ONE', 'ONE', 'FOUR', 'FIVE']": [
+        "(' Thinking Out Loud ', ' Ed Sheeran ')",
+        "(' Good Riddance Time Of Your Life ', ' Green Day ')",
+        "(' Here Comes The Sun ', ' The Beatles ')",
+        "(' All The Small Things ', ' Blink-182 ')",
+        "(' Touch Tank ', ' Quinnie ')",
+        "(' Man In The Mirror ', ' Michael Jackson ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'ONE', 'TWO', 'FIVE', 'ONE']": [
+        "(' Thinking Out Loud ', ' Ed Sheeran ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'SIX', 'FOUR', 'FOUR', 'ONE', 'FIVE', 'FOUR', 'MAJ THREE', 'MAJ TWO', 'MAJ TWO', 'ONE']": [
+        "(' Let It Be ', ' The Beatles ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'ONE', 'ONE', 'FIVE', 'FOUR', 'MAJ THREE', 'MAJ TWO', 'MAJ TWO', 'ONE']": [
+        "(' Let It Be ', ' The Beatles ')"
+    ],
+    "['ONE', 'ONE', 'FOUR']": [
+        "(' Imagine ', ' John Lennon ')",
+        "(' Mr Brightside ', ' The Killers ')",
+        "(' America The Beautiful ', ' Misc Traditional ')",
+        "(' 1 Step Forward 3 Steps Back ', ' Olivia Rodrigo ')",
+        "(' About A Girl ', ' Nirvana ')",
+        "(' Harvest Moon ', ' Neil Young ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'ONE', 'MAJ THREE', 'MAJ THREE']": [
+        "(' Imagine ', ' John Lennon ')"
+    ],
+    "['FIVE', 'SIX', 'FOUR', 'ONE']": [
+        "(' Im Yours ', ' Jason Mraz ')",
+        "(' All Of Me ', ' John Legend ')",
+        "(' That Funny Feeling ', ' Bo Burnham ')",
+        "(' Angels ', ' Robbie Williams ')",
+        "(' Despacito ', ' Luis Fonsi ')",
+        "(' Save Tonight ', ' Eagle-Eye Cherry ')",
+        "(' Jireh ', ' Elevation Worship ')",
+        "(' Snap ', ' Rosa Linn ')"
+    ],
+    "['FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Im Yours ', ' Jason Mraz ')"
+    ],
+    "['ONE', 'SIX', 'FIVE', 'FOUR']": [
+        "(' Photograph ', ' Ed Sheeran ')",
+        "(' Sign Of The Times ', ' Harry Styles ')",
+        "(' Heat Waves ', ' Glass Animals ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'TWO', 'FIVE']": [
+        "(' Glimpse Of Us ', ' Joji ')"
+    ],
+    "['MAJ TWO', 'TWO', 'ONE']": [
+        "(' When I Was Your Man ', ' Bruno Mars ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE']": [
+        "(' When I Was Your Man ', ' Bruno Mars ')",
+        "(' A Star Is Born - Always Remember Us This Way ', ' Misc Soundtrack ')",
+        "(' Blowin In The Wind ', ' Bob Dylan ')",
+        "(' Basket Case ', ' Green Day ')",
+        "(' Sand In My Boots ', ' Morgan Wallen ')",
+        "(' Youre Beautiful ', ' James Blunt ')",
+        "(' Aladdin - A Whole New World ', ' Misc Cartoons ')",
+        "(' No Longer Slaves ', ' Bethel Music ')",
+        "(' Keep Driving ', ' Harry Styles ')",
+        "(' Above All ', ' Michael W. Smith ')"
+    ],
+    "['TWO', 'FOUR', 'FIVE']": [
+        "(' Hurt ', ' Johnny Cash ')",
+        "(' So Far Away ', ' Avenged Sevenfold ')"
+    ],
+    "['FIVE', 'SIX']": [
+        "(' Jolene ', ' Dolly Parton ')",
+        "(' American Pie ', ' Don McLean ')",
+        "(' Wild Horses ', ' The Rolling Stones ')",
+        "(' Banana Pancakes ', ' Jack Johnson ')",
+        "(' Snuff ', ' Slipknot ')",
+        "(' Boys Dont Cry ', ' The Cure ')",
+        "(' I Wanna Dance With Somebody Who Loves Me ', ' Whitney Houston ')"
+    ],
+    "['SIX', 'ONE', 'FIVE', 'SIX', 'FIVE', 'THREE', 'SIX']": [
+        "(' Jolene ', ' Dolly Parton ')"
+    ],
+    "['ONE', 'SIX', 'TWO', 'FOUR', 'FIVE']": [
+        "(' All Of Me ', ' John Legend ')",
+        "(' We Are Young ', ' Fun. ')"
+    ],
+    "['FOUR', 'ONE', 'FIVE', 'SIX']": [
+        "(' Boulevard Of Broken Dreams ', ' Green Day ')",
+        "(' Something In The Orange ', ' Zach Bryan ')",
+        "(' In The Stars ', ' Benson Boone ')",
+        "(' 10000 Reasons Bless The Lord ', ' Matt Redman ')",
+        "(' Society ', ' Eddie Vedder ')",
+        "(' Galway Girl ', ' Ed Sheeran ')",
+        "(' Despacito ', ' Luis Fonsi ')",
+        "(' Way Maker ', ' Sinach ')",
+        "(' Living Hope ', ' Phil Wickham ')",
+        "(' Umbrella ', ' Rihanna ')",
+        "(' Breakeven ', ' The Script ')",
+        "(' The Nights ', ' Avicii ')"
+    ],
+    "['TWO', 'MAJ FLAT SEVEN', 'ONE', 'FIVE', 'FOUR', 'MAJ FLAT TWO']": [
+        "(' Boulevard Of Broken Dreams ', ' Green Day ')"
+    ],
+    "['FIVE', 'SIX', 'TWO', 'FOUR']": [
+        "(' Your Song ', ' Elton John ')"
+    ],
+    "['ONE', 'FOUR', 'FIVE']": [
+        "(' Good Riddance Time Of Your Life ', ' Green Day ')",
+        "(' Redemption Song ', ' Bob Marley ')",
+        "(' Here Comes The Sun ', ' The Beatles ')",
+        "(' Blowin In The Wind ', ' Bob Dylan ')",
+        "(' Youre Still The One ', ' Shania Twain ')",
+        "(' Mr Jones ', ' Counting Crows ')",
+        "(' Like A Rolling Stone ', ' Bob Dylan ')",
+        "(' What Makes You Beautiful ', ' One Direction ')",
+        "(' Touch Tank ', ' Quinnie ')",
+        "(' Above All ', ' Michael W. Smith ')",
+        "(' Still ', ' Hillsong Worship ')",
+        "(' O Brother Where Art Thou - I Am A Man Of Constant Sorrow ', ' Misc Soundtrack ')"
+    ],
+    "['FOUR', 'SIX', 'TWO', 'SIX', 'THREE']": [
+        "(' Another Love ', ' Tom Odell ')"
+    ],
+    "['FOUR', 'SIX']": [
+        "(' Another Love ', ' Tom Odell ')",
+        "(' Youre Beautiful ', ' James Blunt ')",
+        "(' Live Forever ', ' Oasis ')",
+        "(' Before He Cheats ', ' Carrie Underwood ')",
+        "(' Whyd You Only Call Me When Youre High ', ' Arctic Monkeys ')",
+        "(' Cherry Wine ', ' Hozier ')",
+        "(' Need You Now ', ' Lady A (Lady Antebellum) ')"
+    ],
+    "['ONE', 'SIX', 'THREE', 'FOUR']": [
+        "(' Another Love ', ' Tom Odell ')",
+        "(' High School Musical - All I Want ', ' Misc Television ')"
+    ],
+    "['SIX', 'TWO', 'SIX', 'THREE', 'FOUR']": [
+        "(' Another Love ', ' Tom Odell ')"
+    ],
+    "['FIVE', 'FIVE', 'FOUR', 'FOUR', 'ONE', 'ONE', 'FIVE', 'FIVE']": [
+        "(' Sweet Child O Mine ', \" Guns N\\\\' Roses \")"
+    ],
+    "['FIVE', 'MAJ FLAT SEVEN', 'ONE']": [
+        "(' Sweet Child O Mine ', \" Guns N\\\\' Roses \")"
+    ],
+    "['SIX', 'FOUR', 'MAJ THREE', 'TWO']": [
+        "(' Sweet Child O Mine ', \" Guns N\\\\' Roses \")"
+    ],
+    "['TWO', 'FOUR', 'FIVE', 'MAJ FLAT SEVEN', 'ONE', 'FOUR']": [
+        "(' Sweet Child O Mine ', \" Guns N\\\\' Roses \")"
+    ],
+    "['ONE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' American Pie ', ' Don McLean ')",
+        "(' Brown Eyed Girl ', ' Van Morrison ')",
+        "(' Sweet Caroline ', ' Neil Diamond ')",
+        "(' Free Fallin ', ' Tom Petty ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'SIX']": [
+        "(' Viva La Vida ', ' Coldplay ')",
+        "(' Hey There Delilah ', \" Plain White T\\\\'s \")",
+        "(' Dont Dream Its Over ', ' Crowded House ')",
+        "(' Santeria ', ' Sublime ')",
+        "(' Bam Bam ', ' Camila Cabello ')",
+        "(' If The World Was Ending ', ' JP Saxe ')"
+    ],
+    "['TWO', 'ONE', 'FOUR', 'FOUR', 'ONE', 'TWO']": [
+        "(' Something In The Orange ', ' Zach Bryan ')"
+    ],
+    "['TWO', 'SIX', 'FIVE']": [
+        "(' Someone You Loved ', ' Lewis Capaldi ')",
+        "(' Favorite Crime ', ' Olivia Rodrigo ')",
+        "(' Family Line ', ' Conan Gray ')",
+        "(' Astronomy ', ' Conan Gray ')",
+        "(' The Unforgiven ', ' Metallica ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE', 'FOUR']": [
+        "(' Wagon Wheel ', ' Darius Rucker ')",
+        "(' Blessed Be Your Name ', ' Matt Redman ')",
+        "(' Tuesdays Gone ', ' Lynyrd Skynyrd ')"
+    ],
+    "['ONE', 'FIVE', 'TWO', 'ONE', 'FIVE', 'FOUR']": [
+        "(' Knockin On Heavens Door ', ' Bob Dylan ')"
+    ],
+    "['FOUR', 'MAJ THREE', 'SIX', 'MIN FIVE', 'ONE', 'FOUR', 'MAJ THREE', 'SIX']": [
+        "(' Just The Two Of Us ', ' Grover Washington Jr. ')"
+    ],
+    "['FOUR', 'MAJ THREE', 'SIX', 'FLAT SIX', 'MIN FIVE', 'ONE', 'FOUR', 'MAJ THREE', 'SIX']": [
+        "(' Just The Two Of Us ', ' Grover Washington Jr. ')"
+    ],
+    "['ONE', 'MAJ FLAT SEVEN', 'MAJ FLAT SEVEN', 'MAJ SIX', 'MAJ FLAT SIX', 'FIVE', 'ONE', 'FOUR']": [
+        "(' Just The Two Of Us ', ' Grover Washington Jr. ')"
+    ],
+    "['ONE', 'SIX', 'MAJ THREE', 'FOUR']": [
+        "(' Where Is My Mind ', ' Pixies ')"
+    ],
+    "['ONE', 'ONE', 'SIX', 'SIX', 'FOUR', 'FIVE', 'ONE', 'ONE']": [
+        "(' Stand By Me ', ' Ben E. King ')"
+    ],
+    "['FOUR', 'ONE']": [
+        "(' The Sound Of Silence ', ' Simon & Garfunkel ')",
+        "(' Make You Feel My Love ', ' Adele ')",
+        "(' Over The Rainbow ', ' Israel Kamakawiwo\\\\xca\\\\xbbole ')",
+        "(' All I Want ', ' Kodaline ')",
+        "(' Drivers License ', ' Olivia Rodrigo ')",
+        "(' Suspicious Minds ', ' Elvis Presley ')",
+        "(' Fast Car ', ' Tracy Chapman ')",
+        "(' Goodness Of God ', ' Bethel Music ')",
+        "(' Ring Of Fire ', ' Johnny Cash ')",
+        "(' Love Of My Life ', ' Queen ')",
+        "(' Dont Stop Believin ', ' Journey ')",
+        "(' Half The World Away ', ' Oasis ')",
+        "(' Piano Man ', ' Billy Joel ')",
+        "(' Tennessee Whiskey ', ' Chris Stapleton ')",
+        "(' Wild Horses ', ' The Rolling Stones ')",
+        "(' Ho Hey ', ' The Lumineers ')",
+        "(' Dont Dream Its Over ', ' Crowded House ')",
+        "(' Starman ', ' David Bowie ')",
+        "(' Can You Feel The Love Tonight ', ' Elton John ')",
+        "(' Bridge Over Troubled Water ', ' Simon & Garfunkel ')",
+        "(' I Love You ', ' Billie Eilish ')",
+        "(' Always On My Mind ', ' Elvis Presley ')",
+        "(' No Woman No Cry ', ' Bob Marley ')",
+        "(' You Raise Me Up ', ' Josh Groban ')",
+        "(' Apocalypse ', ' Cigarettes After Sex ')",
+        "(' Time ', ' Pink Floyd ')",
+        "(' Jealous ', ' Labrinth ')",
+        "(' I Wont Give Up ', ' Jason Mraz ')",
+        "(' Bed Of Roses ', ' Bon Jovi ')",
+        "(' Always On My Mind ', ' Willie Nelson ')",
+        "(' Motion Sickness ', ' Phoebe Bridgers ')",
+        "(' Graves Into Gardens ', ' The Worship Initiative ')",
+        "(' Everything I Do I Do It For You ', ' Bryan Adams ')",
+        "(' Cleopatra ', ' The Lumineers ')",
+        "(' Jireh ', ' Elevation Worship ')",
+        "(' Jealous Guy ', ' John Lennon ')",
+        "(' Falling Slowly ', ' Glen Hansard ')",
+        "(' Take It Easy ', ' Eagles ')",
+        "(' Wholl Stop The Rain ', ' Creedence Clearwater Revival ')",
+        "(' Youll Be In My Heart ', ' Phil Collins ')",
+        "(' Dead Flowers ', ' The Rolling Stones ')",
+        "(' I Want To Break Free ', ' Queen ')",
+        "(' Chicken Fried ', ' Zac Brown Band ')",
+        "(' Drift Away ', ' Dobie Gray ')",
+        "(' Eight Days A Week ', ' The Beatles ')"
+    ],
+    "['MAJ THREE', 'MAJ SIX', 'FIVE', 'ONE']": [
+        "(' Smells Like Teen Spirit ', ' Nirvana ')"
+    ],
+    "['MAJ TWO', 'FIVE', 'FOUR', 'MAJ FLAT SEVEN']": [
+        "(' Smells Like Teen Spirit ', ' Nirvana ')"
+    ],
+    "['ONE', 'MAJ THREE', 'MAJ SIX', 'FIVE']": [
+        "(' Smells Like Teen Spirit ', ' Nirvana ')"
+    ],
+    "['ONE', 'MAJ TWO', 'FIVE']": [
+        "(' Make You Feel My Love ', ' Adele ')"
+    ],
+    "['FIVE', 'THREE']": [
+        "(' Hallelujah ', ' Jeff Buckley ')",
+        "(' Dancing In The Dark ', ' Bruce Springsteen ')",
+        "(' Oh Pretty Woman ', ' Roy Orbison ')"
+    ],
+    "['ONE', 'FOUR', 'TWO', 'FIVE', 'FIVE', 'ONE', 'MIN FOUR']": [
+        "(' No Surprises ', ' Radiohead ')"
+    ],
+    "['TWO', 'FIVE', 'FIVE']": [
+        "(' No Surprises ', ' Radiohead ')"
+    ],
+    "['FIVE', 'MIN FOUR']": [
+        "(' No Surprises ', ' Radiohead ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'TWO', 'ONE', 'FIVE']": [
+        "(' Love Yourself ', ' Justin Bieber ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE', 'ONE']": [
+        "(' Love Yourself ', ' Justin Bieber ')"
+    ],
+    "['FOUR', 'THREE']": [
+        "(' Space Oddity ', ' David Bowie ')",
+        "(' Valerie ', ' Amy Winehouse ')",
+        "(' It Will Rain ', ' Bruno Mars ')"
+    ],
+    "['ONE', 'MAJ THREE', 'FOUR', 'MIN FOUR', 'ONE', 'FOUR', 'MIN FOUR', 'ONE', 'FOUR']": [
+        "(' Space Oddity ', ' David Bowie ')"
+    ],
+    "['ONE', 'FOUR', 'FIVE', 'MAJ SIX', 'MAJ SIX']": [
+        "(' Space Oddity ', ' David Bowie ')"
+    ],
+    "['TWO', 'ONE', 'FIVE']": [
+        "(' Wicked Game ', ' Chris Isaak ')",
+        "(' Sweater Weather ', ' The Neighbourhood ')",
+        "(' Under The Bridge ', ' Red Hot Chili Peppers ')",
+        "(' Home ', ' Edward Sharpe and the Magnetic Zeros ')",
+        "(' The Only Exception ', ' Paramore ')",
+        "(' Good 4 U ', ' Olivia Rodrigo ')",
+        "(' Fake Plastic Trees ', ' Radiohead ')"
+    ],
+    "['MAJ FLAT TWO', 'ONE', 'MAJ FLAT SEVEN', 'ONE']": [
+        "(' Bohemian Rhapsody ', ' Queen ')"
+    ],
+    "['MAJ THREE', 'MAJ FLAT SEVEN', 'MAJ FLAT SEVEN', 'MAJ FLAT SEVEN']": [
+        "(' Bohemian Rhapsody ', ' Queen ')"
+    ],
+    "['TWO', 'FIVE']": [
+        "(' Bohemian Rhapsody ', ' Queen ')",
+        "(' Piano Man ', ' Billy Joel ')",
+        "(' My Sweet Lord ', ' George Harrison ')",
+        "(' Take On Me ', ' a-ha ')",
+        "(' Mad World ', ' Gary Jules ')",
+        "(' La Vie En Rose ', ' Louis Armstrong ')",
+        "(' Banana Pancakes ', ' Jack Johnson ')",
+        "(' Better Together ', ' Jack Johnson ')",
+        "(' Time ', ' Pink Floyd ')",
+        "(' I Wont Give Up ', ' Jason Mraz ')",
+        "(' Everybody Hurts ', ' R.E.M. ')",
+        "(' Everything I Do I Do It For You ', ' Bryan Adams ')",
+        "(' Sweet Dreams Are Made Of This ', ' Eurythmics ')",
+        "(' Dont Speak ', ' No Doubt ')",
+        "(' Against All Odds ', ' Phil Collins ')",
+        "(' Oh Darling ', ' The Beatles ')",
+        "(' Somethin Stupid ', ' Frank Sinatra ')"
+    ],
+    "['SIX', 'THREE']": [
+        "(' Bohemian Rhapsody ', ' Queen ')",
+        "(' Losing My Religion ', ' R.E.M. ')",
+        "(' Lemon Tree ', \" Fool\\\\'s Garden \")",
+        "(' Otherside ', ' Red Hot Chili Peppers ')",
+        "(' Mandaaram Kathawe ', ' Anushka Udana ')",
+        "(' And I Love Her ', ' The Beatles ')",
+        "(' We Are The Champions ', ' Queen ')"
+    ],
+    "['FOUR', 'TWO', 'SIX', 'ONE']": [
+        "(' Night Changes ', ' One Direction ')",
+        "(' Apocalypse ', ' Cigarettes After Sex ')"
+    ],
+    "['FOUR', 'FIVE']": [
+        "(' Night Changes ', ' One Direction ')",
+        "(' Suspicious Minds ', ' Elvis Presley ')",
+        "(' Every Breath You Take ', ' The Police ')",
+        "(' Dreams ', ' Fleetwood Mac ')",
+        "(' Wonderful Tonight ', ' Eric Clapton ')",
+        "(' Lemon Tree ', \" Fool\\\\'s Garden \")",
+        "(' Society ', ' Eddie Vedder ')",
+        "(' November Rain ', \" Guns N\\\\' Roses \")",
+        "(' Champagne Supernova ', ' Oasis ')",
+        "(' Ironic ', ' Alanis Morissette ')",
+        "(' Annies Song ', ' John Denver ')",
+        "(' Like A Rolling Stone ', ' Bob Dylan ')",
+        "(' Plush ', ' Stone Temple Pilots ')",
+        "(' Never Gonna Give You Up ', ' Foo Fighters ')",
+        "(' Kiss From A Rose ', ' Seal ')",
+        "(' Nothing New ', ' Taylor Swift ')",
+        "(' So Far Away ', ' Avenged Sevenfold ')",
+        "(' Snap ', ' Rosa Linn ')",
+        "(' The Little Mermaid - Part Of Your World ', ' Misc Cartoons ')"
+    ],
+    "['SIX', 'SIX', 'THREE', 'FIVE', 'SIX']": [
+        "(' Aint No Sunshine ', ' Bill Withers ')"
+    ],
+    "['SIX', 'THREE', 'FIVE', 'SIX']": [
+        "(' Aint No Sunshine ', ' Bill Withers ')"
+    ],
+    "['ONE', 'THREE', 'TWO', 'FOUR', 'FIVE']": [
+        "(' Somewhere Only We Know ', ' Keane ')"
+    ],
+    "['FOUR', 'ONE', 'SIX', 'FIVE']": [
+        "(' Somewhere Only We Know ', ' Keane ')",
+        "(' A Thousand Years ', ' Christina Perri ')",
+        "(' Fast Car ', ' Tracy Chapman ')",
+        "(' Pompeii ', ' Bastille ')",
+        "(' Million Reasons ', ' Lady Gaga ')",
+        "(' Payphone ', ' Maroon 5 ')",
+        "(' Promises ', ' Maverick City Music ')"
+    ],
+    "['TWO', 'THREE']": [
+        "(' Somewhere Only We Know ', ' Keane ')",
+        "(' 505 ', ' Arctic Monkeys ')",
+        "(' Me And Your Mama ', ' Childish Gambino ')"
+    ],
+    "['FOUR', 'SIX', 'ONE', 'FIVE']": [
+        "(' Dandelions ', ' Ruth B. ')",
+        "(' Mercy ', ' Shawn Mendes ')",
+        "(' Nutshell ', ' Alice in Chains ')"
+    ],
+    "['SIX', 'TWO', 'FOUR', 'MAJ THREE']": [
+        "(' Back To Black ', ' Amy Winehouse ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'MAJ THREE']": [
+        "(' Back To Black ', ' Amy Winehouse ')",
+        "(' She Used To Be Mine ', ' Sara Bareilles ')",
+        "(' House Of Memories ', ' Panic! At the Disco ')",
+        "(' Between The Bars ', ' Elliott Smith ')"
+    ],
+    "['ONE', 'THREE', 'SIX']": [
+        "(' In The Stars ', ' Benson Boone ')",
+        "(' Skinny Love ', ' Birdy ')"
+    ],
+    "['ONE', 'THREE']": [
+        "(' Hey There Delilah ', \" Plain White T\\\\'s \")",
+        "(' Whyd You Only Call Me When Youre High ', ' Arctic Monkeys ')",
+        "(' Eleanor Rigby ', ' The Beatles ')",
+        "(' It Will Rain ', ' Bruno Mars ')",
+        "(' Need You Now ', ' Lady A (Lady Antebellum) ')"
+    ],
+    "['ONE', 'MAJ FLAT SEVEN', 'FIVE']": [
+        "(' Nothing Else Matters ', ' Metallica ')"
+    ],
+    "['ONE', 'THREE', 'SIX', 'FOUR', 'MIN FOUR']": [
+        "(' Heather ', ' Conan Gray ')"
+    ],
+    "['FOUR', 'FOUR', 'ONE', 'THREE']": [
+        "(' Matilda ', ' Harry Styles ')"
+    ],
+    "['ONE', 'THREE', 'FOUR', 'FOUR']": [
+        "(' Matilda ', ' Harry Styles ')"
+    ],
+    "['FIVE', 'ONE']": [
+        "(' What A Wonderful World ', ' Louis Armstrong ')",
+        "(' Patience ', \" Guns N\\\\' Roses \")",
+        "(' Lemon Tree ', \" Fool\\\\'s Garden \")",
+        "(' Island In The Sun ', ' Weezer ')",
+        "(' Me And Bobby Mcgee ', ' Janis Joplin ')",
+        "(' I Walk The Line ', ' Johnny Cash ')",
+        "(' Every Rose Has Its Thorn ', ' Poison ')",
+        "(' O Come To The Altar ', ' Elevation Worship ')",
+        "(' Somebody To Love ', ' Queen ')",
+        "(' Gravity ', ' John Mayer ')",
+        "(' Fourth Of July ', ' Sufjan Stevens ')",
+        "(' Graves Into Gardens ', ' The Worship Initiative ')",
+        "(' Build My Life ', ' Housefires ')",
+        "(' Mamma Mia - Our Last Summer ', ' Misc Soundtrack ')",
+        "(' Bam Bam ', ' Camila Cabello ')",
+        "(' Love Me Do ', ' The Beatles ')",
+        "(' Shes Always A Woman ', ' Billy Joel ')",
+        "(' For What Its Worth ', ' Buffalo Springfield ')",
+        "(' Dead Flowers ', ' The Rolling Stones ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'SIX', 'FOUR', 'FOUR', 'ONE', 'FIVE', 'FOUR', 'ONE', 'TWO', 'ONE']": [
+        "(' Let It Be ', ' The Beatles ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'ONE', 'ONE', 'FIVE', 'FOUR', 'ONE', 'TWO', 'ONE']": [
+        "(' Let It Be ', ' The Beatles ')"
+    ],
+    "['TWO', 'TWO', 'FIVE', 'ONE', 'FIVE', 'FOUR', 'TWO', 'ONE', 'SIX', 'TWO']": [
+        "(' Father And Son ', ' Cat Stevens ')"
+    ],
+    "['MAJ THREE', 'MAJ THREE', 'SIX', 'FIVE', 'FOUR', 'FIVE']": [
+        "(' California Dreamin ', ' The Mamas & The Papas ')"
+    ],
+    "['SIX', 'FIVE']": [
+        "(' California Dreamin ', ' The Mamas & The Papas ')",
+        "(' Somebody That I Used To Know ', ' Gotye ')",
+        "(' Wind Of Change ', ' Scorpions ')",
+        "(' She Will Be Loved ', ' Maroon 5 ')",
+        "(' There Is A Light That Never Goes Out ', ' The Smiths ')",
+        "(' Good 4 U ', ' Olivia Rodrigo ')",
+        "(' Little Freak ', ' Harry Styles ')",
+        "(' What A Beautiful Name ', ' Hillsong Worship ')",
+        "(' Set Fire To The Rain ', ' Adele ')",
+        "(' Fake Plastic Trees ', ' Radiohead ')",
+        "(' I Love You So ', ' The Walters ')",
+        "(' Runaway ', ' AURORA ')",
+        "(' Story Of My Life ', ' One Direction ')",
+        "(' Stolen Dance ', ' Milky Chance ')",
+        "(' Total Eclipse Of The Heart ', ' Bonnie Tyler ')",
+        "(' Mamma Mia - Dancing Queen ', ' Misc Soundtrack ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'FIVE', 'SIX']": [
+        "(' California Dreamin ', ' The Mamas & The Papas ')"
+    ],
+    "['ONE', 'THREE', 'SIX', 'FIVE']": [
+        "(' Fix You ', ' Coldplay ')",
+        "(' Runaway Train ', ' Soul Asylum ')"
+    ],
+    "['FOUR', 'ONE', 'FIVE', 'FOUR']": [
+        "(' Fix You ', ' Coldplay ')",
+        "(' Galway Girl ', ' Ed Sheeran ')",
+        "(' Betty ', ' Taylor Swift ')"
+    ],
+    "['ONE', 'FOUR', 'ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Fix You ', ' Coldplay ')"
+    ],
+    "['FOUR', 'ONE', 'FIVE']": [
+        "(' Fix You ', ' Coldplay ')",
+        "(' The Only Exception ', ' Paramore ')",
+        "(' Afterglow ', ' Ed Sheeran ')",
+        "(' Little Freak ', ' Harry Styles ')",
+        "(' Oceans Where Feet May Fail ', ' Hillsong United ')",
+        "(' Million Reasons ', ' Lady Gaga ')",
+        "(' Lola ', ' The Kinks ')",
+        "(' With A Little Help From My Friends ', ' The Beatles ')",
+        "(' Clocks ', ' Coldplay ')",
+        "(' See You Again ', ' Wiz Khalifa ')",
+        "(' Male Fantasy ', ' Billie Eilish ')",
+        "(' Moon Song ', ' Phoebe Bridgers ')"
+    ],
+    "['TWO', 'SIX']": [
+        "(' Take Me To Church ', ' Hozier ')",
+        "(' Grenade ', ' Bruno Mars ')",
+        "(' Mandaaram Kathawe ', ' Anushka Udana ')",
+        "(' And I Love Her ', ' The Beatles ')",
+        "(' Angie ', ' The Rolling Stones ')"
+    ],
+    "['TWO', 'MAJ SIX', 'FOUR', 'MIN FIVE', 'TWO', 'FIVE', 'FOUR', 'FOUR', 'MAJ THREE']": [
+        "(' Take Me To Church ', ' Hozier ')"
+    ],
+    "['FOUR', 'ONE', 'MAJ THREE', 'SIX']": [
+        "(' Take Me To Church ', ' Hozier ')",
+        "(' Toy Story - Youve Got A Friend In Me ', ' Misc Cartoons ')",
+        "(' Umbrella ', ' Rihanna ')",
+        "(' Abcdefu Angrier ', ' GAYLE ')"
+    ],
+    "['FOUR', 'TWO', 'ONE']": [
+        "(' I See Fire ', ' Ed Sheeran ')",
+        "(' Sign Of The Times ', ' Harry Styles ')",
+        "(' November Rain ', \" Guns N\\\\' Roses \")"
+    ],
+    "['SIX', 'FOUR', 'FIVE', 'SIX']": [
+        "(' I See Fire ', ' Ed Sheeran ')",
+        "(' Layla ', ' Eric Clapton ')",
+        "(' Eye Of The Tiger ', ' Survivor ')"
+    ],
+    "['TWO', 'SIX', 'ONE', 'FIVE']": [
+        "(' I See Fire ', ' Ed Sheeran ')",
+        "(' Watermelon Sugar ', ' Harry Styles ')",
+        "(' Blinding Lights ', ' The Weeknd ')",
+        "(' Candy ', ' Paolo Nutini ')"
+    ],
+    "['SIX', 'THREE', 'FOUR', 'ONE', 'TWO', 'ONE']": [
+        "(' When We Were Young ', ' Adele ')"
+    ],
+    "['ONE', 'THREE', 'FOUR', 'FIVE']": [
+        "(' When We Were Young ', ' Adele ')",
+        "(' All I Ask ', ' Adele ')",
+        "(' Love Of My Life ', ' Harry Styles ')",
+        "(' Supermarket Flowers ', ' Ed Sheeran ')",
+        "(' Amarillo By Morning ', ' George Strait ')",
+        "(' First Love Late Spring ', ' Mitski ')"
+    ],
+    "['ONE', 'SIX', 'FIVE', 'THREE', 'TWO', 'ONE', 'FOUR']": [
+        "(' Easy On Me ', ' Adele ')"
+    ],
+    "['FIVE', 'ONE', 'SIX', 'THREE', 'FOUR']": [
+        "(' Easy On Me ', ' Adele ')"
+    ],
+    "['ONE', 'ONE']": [
+        "(' All I Want ', ' Kodaline ')",
+        "(' Patience ', \" Guns N\\\\' Roses \")",
+        "(' Sweet Caroline ', ' Neil Diamond ')",
+        "(' Folsom Prison Blues ', ' Johnny Cash ')",
+        "(' Dust In The Wind ', ' Kansas ')",
+        "(' I Still Havent Found What Im Looking For ', ' U2 ')",
+        "(' If I Aint Got You ', ' Alicia Keys ')",
+        "(' Yellow ', ' Coldplay ')",
+        "(' Wake Me Up When September Ends ', ' Green Day ')",
+        "(' Dont Dream Its Over ', ' Crowded House ')",
+        "(' Proud Mary ', ' Creedence Clearwater Revival ')",
+        "(' Peaceful Easy Feeling ', ' Eagles ')",
+        "(' Thats Alright Mama ', ' Elvis Presley ')",
+        "(' Boyfriends ', ' Harry Styles ')",
+        "(' Me And Bobby Mcgee ', ' Janis Joplin ')",
+        "(' Kiss Me ', ' Sixpence None the Richer ')",
+        "(' Heat Waves ', ' Glass Animals ')",
+        "(' Torn ', ' Natalie Imbruglia ')",
+        "(' My Way ', ' Frank Sinatra ')",
+        "(' Mr Tambourine Man ', ' Bob Dylan ')",
+        "(' Highway To Hell ', ' AC/DC ')",
+        "(' Tequila Sunrise ', ' Eagles ')",
+        "(' Annies Song ', ' John Denver ')",
+        "(' Ob-La-Di Ob-La-Da ', ' The Beatles ')",
+        "(' I Speak Jesus ', ' Here Be Lions ')",
+        "(' Everlong ', ' Foo Fighters ')",
+        "(' The Greatest Showman - Rewrite The Stars ', ' Misc Soundtrack ')",
+        "(' Alone Again Naturally ', \" Gilbert O\\\\'Sullivan \")",
+        "(' First Love Late Spring ', ' Mitski ')",
+        "(' Shes Always A Woman ', ' Billy Joel ')",
+        "(' Encanto - Dos Oruguitas ', ' Misc Cartoons ')",
+        "(' Hound Dog ', ' Elvis Presley ')",
+        "(' Runaway Train ', ' Soul Asylum ')",
+        "(' Sweet Creature ', ' Harry Styles ')",
+        "(' I Want To Break Free ', ' Queen ')",
+        "(' Aladdin - A Whole New World ', ' Misc Cartoons ')",
+        "(' To Be With You ', ' Mr. Big ')",
+        "(' Stuck In The Middle With You ', ' Stealers Wheel ')",
+        "(' Man In The Mirror ', ' Michael Jackson ')",
+        "(' Harvest Moon ', ' Neil Young ')",
+        "(' Big Yellow Taxi ', ' Joni Mitchell ')",
+        "(' Sundown ', ' Gordon Lightfoot ')"
+    ],
+    "['ONE', 'FOUR', 'ONE', 'ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FOUR', 'ONE']": [
+        "(' All I Want ', ' Kodaline ')"
+    ],
+    "['ONE', 'ONE', 'TWO', 'FOUR', 'FIVE']": [
+        "(' Cigarette Daydreams ', ' Cage the Elephant ')"
+    ],
+    "['SIX', 'ONE', 'FOUR', 'THREE']": [
+        "(' Cigarette Daydreams ', ' Cage the Elephant ')"
+    ],
+    "['ONE', 'SIX', 'THREE', 'FIVE']": [
+        "(' Sweater Weather ', ' The Neighbourhood ')",
+        "(' Save Your Tears ', ' The Weeknd ')"
+    ],
+    "['SIX', 'TWO', 'SIX']": [
+        "(' Wellerman ', ' The Longest Johns ')"
+    ],
+    "['FIVE', 'TWO', 'SIX']": [
+        "(' A Thousand Years ', ' Christina Perri ')",
+        "(' Clocks ', ' Coldplay ')"
+    ],
+    "['FIVE', 'FOUR']": [
+        "(' A Thousand Years ', ' Christina Perri ')",
+        "(' Frozen - Let It Go ', ' Misc Cartoons ')",
+        "(' Favorite Crime ', ' Olivia Rodrigo ')",
+        "(' Running Up That Hill ', ' Placebo ')",
+        "(' Feathered Indians ', ' Tyler Childers ')",
+        "(' Fourth Of July ', ' Sufjan Stevens ')",
+        "(' 2441139 Bela Bose ', ' Anjan Dutt ')",
+        "(' Lego House ', ' Ed Sheeran ')",
+        "(' I Want To Break Free ', ' Queen ')",
+        "(' No Rain ', ' Blind Melon ')"
+    ],
+    "['MAJ FLAT SEVEN', 'ONE', 'FOUR', 'SIX', 'TWO', 'FOUR', 'MAJ FLAT SEVEN', 'THREE', 'MAJ SIX', 'TWO', 'FIVE', 'MAJ FLAT TWO', 'ONE', 'FOUR']": [
+        "(' Vienna ', ' Billy Joel ')"
+    ],
+    "['FIVE', 'FOUR', 'ONE']": [
+        "(' Sweet Home Alabama ', ' Lynyrd Skynyrd ')",
+        "(' I Still Havent Found What Im Looking For ', ' U2 ')",
+        "(' The Boxer ', ' Simon & Garfunkel ')",
+        "(' Angel From Montgomery ', ' John Prine ')",
+        "(' God Bless The Usa ', ' Lee Greenwood ')",
+        "(' Pompeii ', ' Bastille ')",
+        "(' Love Me Do ', ' The Beatles ')",
+        "(' Back In Black ', ' AC/DC ')",
+        "(' Budapest ', ' George Ezra ')",
+        "(' Sister Golden Hair ', ' America ')",
+        "(' Tuesdays Gone ', ' Lynyrd Skynyrd ')"
+    ],
+    "['SIX', 'FOUR', 'FIVE', 'ONE']": [
+        "(' Heart Of Gold ', ' Neil Young ')",
+        "(' Total Eclipse Of The Heart ', ' Bonnie Tyler ')"
+    ],
+    "['SIX', 'FIVE', 'SIX']": [
+        "(' Heart Of Gold ', ' Neil Young ')",
+        "(' Tribute ', ' Tenacious D ')",
+        "(' The Nights ', ' Avicii ')"
+    ],
+    "['SIX', 'THREE', 'FOUR', 'FIVE']": [
+        "(' Suspicious Minds ', ' Elvis Presley ')",
+        "(' Stay ', ' The Kid LAROI ')"
+    ],
+    "['ONE', 'FOUR', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Suspicious Minds ', ' Elvis Presley ')"
+    ],
+    "['FIVE', 'SIX', 'TWO', 'FIVE', 'ONE']": [
+        "(' More Than Words ', ' Extreme ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'THREE', 'FOUR', 'FOUR', 'ONE', 'TWO', 'FIVE', 'ONE']": [
+        "(' More Than Words ', ' Extreme ')"
+    ],
+    "['ONE', 'FIVE']": [
+        "(' Take It Easy ', ' Eagles ')",
+        "(' Rocket Man ', ' Elton John ')",
+        "(' Ring Of Fire ', ' Johnny Cash ')",
+        "(' Hey Jude ', ' The Beatles ')",
+        "(' Summer Of 69 ', ' Bryan Adams ')",
+        "(' Dont Think Twice Its All Right ', ' Bob Dylan ')",
+        "(' The Scientist ', ' Coldplay ')",
+        "(' Tennessee Whiskey ', ' Chris Stapleton ')",
+        "(' Toy Story - Youve Got A Friend In Me ', ' Misc Cartoons ')",
+        "(' Comfortably Numb ', ' Pink Floyd ')",
+        "(' Nothing Compares 2 U ', ' Chris Cornell ')",
+        "(' O Come To The Altar ', ' Elevation Worship ')",
+        "(' How To Save A Life ', ' The Fray ')",
+        "(' Ironic ', ' Alanis Morissette ')",
+        "(' Deja Vu ', ' Olivia Rodrigo ')",
+        "(' I Saw Her Standing There ', ' The Beatles ')",
+        "(' Love Me Do ', ' The Beatles ')",
+        "(' In My Life ', ' The Beatles ')",
+        "(' Que Sera Sera ', ' Doris Day ')",
+        "(' Stuck In The Middle With You ', ' Stealers Wheel ')"
+    ],
+    "['FOUR', 'TWO', 'FIVE', 'SIX', 'SIX', 'SIX', 'SIX', 'SIX']": [
+        "(' Losing My Religion ', ' R.E.M. ')"
+    ],
+    "['ONE', 'TWO']": [
+        "(' Losing My Religion ', ' R.E.M. ')",
+        "(' Valerie ', ' Amy Winehouse ')",
+        "(' Wind Of Change ', ' Scorpions ')",
+        "(' Mamma Mia - Our Last Summer ', ' Misc Soundtrack ')",
+        "(' Scarborough Fair ', ' Simon & Garfunkel ')",
+        "(' What A Wonderful World ', ' Louis Armstrong ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'TWO', 'ONE']": [
+        "(' Redemption Song ', ' Bob Marley ')"
+    ],
+    "['SIX', 'MAJ TWO']": [
+        "(' Rocket Man ', ' Elton John ')",
+        "(' Bohemian Rhapsody ', ' Queen ')"
+    ],
+    "['FOUR', 'SIX', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Hallelujah ', ' Leonard Cohen ')"
+    ],
+    "['ONE', 'MAJ THREE', 'SIX', 'FIVE', 'FOUR']": [
+        "(' Talking To The Moon ', ' Bruno Mars ')"
+    ],
+    "['FIVE', 'FIVE']": [
+        "(' Goodness Of God ', ' Bethel Music ')",
+        "(' While My Guitar Gently Weeps ', ' The Beatles ')",
+        "(' Patience ', \" Guns N\\\\' Roses \")",
+        "(' Here Comes The Sun ', ' The Beatles ')",
+        "(' Tennessee Whiskey ', ' Chris Stapleton ')",
+        "(' Blackbird ', ' The Beatles ')",
+        "(' Wake Me Up When September Ends ', ' Green Day ')",
+        "(' Crazy Little Thing Called Love ', ' Queen ')",
+        "(' The Times They Are A-Changin ', ' Bob Dylan ')",
+        "(' Me And Bobby Mcgee ', ' Janis Joplin ')",
+        "(' Great Balls Of Fire ', ' Jerry Lee Lewis ')",
+        "(' Flower Shops ', ' Ernest ')",
+        "(' Friends In Low Places ', ' Garth Brooks ')",
+        "(' Starting Over ', ' Chris Stapleton ')",
+        "(' Stand By Me ', ' Oasis ')",
+        "(' Are You Lonesome Tonight ', ' Elvis Presley ')",
+        "(' Tequila Sunrise ', ' Eagles ')",
+        "(' Annies Song ', ' John Denver ')",
+        "(' Ob-La-Di Ob-La-Da ', ' The Beatles ')",
+        "(' Everlong ', ' Foo Fighters ')",
+        "(' Old Man ', ' Neil Young ')",
+        "(' The Greatest Showman - Rewrite The Stars ', ' Misc Soundtrack ')",
+        "(' Jealous Guy ', ' John Lennon ')",
+        "(' Strawberry Fields Forever ', ' The Beatles ')",
+        "(' Learn To Fly ', ' Foo Fighters ')",
+        "(' Budapest ', ' George Ezra ')",
+        "(' Harvest Moon ', ' Neil Young ')"
+    ],
+    "['FIVE', 'SIX', 'FOUR']": [
+        "(' Goodness Of God ', ' Bethel Music ')",
+        "(' Someone Like You ', ' Adele ')"
+    ],
+    "['ONE', 'FOUR', 'FIVE', 'ONE']": [
+        "(' Goodness Of God ', ' Bethel Music ')",
+        "(' Burning Love ', ' Elvis Presley ')",
+        "(' Im Gonna Be 500 Miles ', ' The Proclaimers ')",
+        "(' No Longer Slaves ', ' Bethel Music ')",
+        "(' Dreams ', ' The Cranberries ')",
+        "(' Mammas Dont Let Your Babies Grow Up To Be Cowboys ', ' Waylon Jennings ')",
+        "(' Big Yellow Taxi ', ' Joni Mitchell ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'ONE']": [
+        "(' Goodness Of God ', ' Bethel Music ')",
+        "(' Margaritaville ', ' Jimmy Buffett ')",
+        "(' All You Need Is Love ', ' The Beatles ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'SIX', 'ONE', 'FOUR']": [
+        "(' The Night We Met ', ' Lord Huron ')"
+    ],
+    "['THREE', 'FIVE', 'ONE']": [
+        "(' The Night We Met ', ' Lord Huron ')"
+    ],
+    "['ONE', 'FOUR', 'ONE', 'ONE', 'FIVE', 'ONE']": [
+        "(' Ring Of Fire ', ' Johnny Cash ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'MAJ FLAT SEVEN']": [
+        "(' Karma Police ', ' Radiohead ')"
+    ],
+    "['SIX', 'ONE', 'FOUR', 'ONE', 'FOUR', 'ONE', 'MAJ TWO', 'MAJ TWO']": [
+        "(' Karma Police ', ' Radiohead ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Bad Moon Rising ', ' Creedence Clearwater Revival ')",
+        "(' Sittin On The Dock Of The Bay ', ' Otis Redding ')",
+        "(' Chasing Cars ', ' Snow Patrol ')",
+        "(' Hero ', ' Enrique Iglesias ')",
+        "(' Dead Flowers ', ' The Rolling Stones ')"
+    ],
+    "['FOUR', 'ONE', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Bad Moon Rising ', ' Creedence Clearwater Revival ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR', 'ONE', 'ONE']": [
+        "(' Bad Moon Rising ', ' Creedence Clearwater Revival ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FOUR', 'ONE']": [
+        "(' The A Team ', ' Ed Sheeran ')",
+        "(' Wherever You Will Go ', ' The Calling ')"
+    ],
+    "['THREE', 'ONE', 'FIVE']": [
+        "(' The A Team ', ' Ed Sheeran ')",
+        "(' I Want It That Way ', ' Backstreet Boys ')",
+        "(' This Is Home ', ' cavetown ')"
+    ],
+    "['SIX', 'FOUR', 'ONE']": [
+        "(' The A Team ', ' Ed Sheeran ')",
+        "(' I Want It That Way ', ' Backstreet Boys ')",
+        "(' Stay With Me ', ' Sam Smith ')",
+        "(' Little Talks ', ' Of Monsters and Men ')",
+        "(' Slow Dancing In A Burning Room ', ' John Mayer ')",
+        "(' Skinny Love ', ' Birdy ')",
+        "(' Happier ', ' Ed Sheeran ')",
+        "(' Everlong ', ' Foo Fighters ')",
+        "(' Wake Me Up ', ' Avicii ')",
+        "(' Give Me Love ', ' Ed Sheeran ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'FOUR', 'FIVE', 'FIVE']": [
+        "(' Rolling In The Deep ', ' Adele ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FIVE']": [
+        "(' Landslide ', ' Fleetwood Mac ')",
+        "(' Basket Case ', ' Green Day ')",
+        "(' She Will Be Loved ', ' Maroon 5 ')"
+    ],
+    "['FOUR', 'ONE', 'TWO', 'ONE']": [
+        "(' Landslide ', ' Fleetwood Mac ')",
+        "(' Lego House ', ' Ed Sheeran ')"
+    ],
+    "['SIX', 'MAJ SIX', 'SIX', 'ONE', 'SIX', 'FOUR']": [
+        "(' Sparks ', ' Coldplay ')"
+    ],
+    "['ONE', 'FIVE', 'TWO', 'SIX', 'ONE', 'FIVE', 'TWO']": [
+        "(' Californication ', ' Red Hot Chili Peppers ')"
+    ],
+    "['FIVE', 'ONE', 'FOUR', 'ONE']": [
+        "(' Brown Eyed Girl ', ' Van Morrison ')",
+        "(' Crazy Little Thing Called Love ', ' Queen ')",
+        "(' I Speak Jesus ', ' Here Be Lions ')"
+    ],
+    "['TWO', 'FOUR', 'ONE', 'FIVE', 'TWO', 'FOUR', 'ONE']": [
+        "(' Radioactive ', ' Imagine Dragons ')"
+    ],
+    "['ONE', 'THREE', 'SIX', 'THREE', 'TWO', 'FIVE', 'FIVE', 'FIVE']": [
+        "(' While My Guitar Gently Weeps ', ' The Beatles ')"
+    ],
+    "['FOUR', 'ONE', 'MAJ TWO', 'FIVE']": [
+        "(' Patience ', \" Guns N\\\\' Roses \")"
+    ],
+    "['SIX', 'FOUR', 'FLAT SEVEN', 'MAJ THREE']": [
+        "(' Beggin ', ' M\\\\xc3\\\\xa5neskin ')"
+    ],
+    "['FOUR', 'FLAT SEVEN', 'MAJ THREE', 'SIX']": [
+        "(' Beggin ', ' M\\\\xc3\\\\xa5neskin ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'ONE']": [
+        "(' The Scientist ', ' Coldplay ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'ONE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Tears In Heaven ', ' Eric Clapton ')"
+    ],
+    "['ONE', 'FOUR', 'FOUR', 'MAJ THREE', 'MAJ SIX', 'FOUR', 'FIVE']": [
+        "(' Sweet Caroline ', ' Neil Diamond ')"
+    ],
+    "['MAJ TWO', 'SIX', 'FIVE', 'MAJ FLAT SEVEN']": [
+        "(' Best Part ', ' Daniel Caesar ')"
+    ],
+    "['TWO', 'FIVE', 'ONE', 'FOUR', 'ONE']": [
+        "(' Take On Me ', ' a-ha ')"
+    ],
+    "['THREE', 'MAJ FLAT SEVEN']": [
+        "(' Take On Me ', ' a-ha ')",
+        "(' Cant Help Falling In Love ', ' twenty one pilots ')"
+    ],
+    "['SIX', 'ONE', 'FOUR', 'MAJ THREE', 'MAJ THREE']": [
+        "(' Crazy ', ' Gnarls Barkley ')",
+        "(' Feeling Good ', ' Michael Bubl\\\\xc3\\\\xa9 ')"
+    ],
+    "['ONE', 'SIX', 'FOUR', 'FIVE', 'ONE']": [
+        "(' Every Breath You Take ', ' The Police ')",
+        "(' Stand By Me ', ' Ben E. King ')",
+        "(' How Great Is Our God ', ' Chris Tomlin ')"
+    ],
+    "['ONE', 'FOUR', 'SIX', 'FIVE']": [
+        "(' Mr Brightside ', ' The Killers ')",
+        "(' Angels ', ' Robbie Williams ')",
+        "(' Accidentally In Love ', ' Counting Crows ')",
+        "(' Let It Go ', ' James Bay ')",
+        "(' Shotgun ', ' George Ezra ')",
+        "(' This Is Amazing Grace ', ' Phil Wickham ')",
+        "(' Shut Up And Dance ', ' WALK THE MOON ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE', 'THREE', 'FOUR']": [
+        "(' Dont Stop Believin ', ' Journey ')"
+    ],
+    "['ONE', 'ONE', 'FOUR', 'FOUR']": [
+        "(' How Deep Is Your Love ', ' Bee Gees ')",
+        "(' Dreams ', ' The Cranberries ')"
+    ],
+    "['FOUR', 'FOUR']": [
+        "(' Half The World Away ', ' Oasis ')",
+        "(' Champagne Supernova ', ' Oasis ')",
+        "(' Torn ', ' Natalie Imbruglia ')",
+        "(' Bed Of Roses ', ' Bon Jovi ')",
+        "(' Everlong ', ' Foo Fighters ')",
+        "(' The Greatest Showman - Rewrite The Stars ', ' Misc Soundtrack ')",
+        "(' Top Gun Maverick - Hold My Hand ', ' Misc Soundtrack ')",
+        "(' Youll Be In My Heart ', ' Phil Collins ')"
+    ],
+    "['FIVE', 'ONE', 'FIVE']": [
+        "(' Three Little Birds ', ' Bob Marley ')"
+    ],
+    "['FOUR', 'MAJ SIX', 'MAJ FLAT SEVEN', 'FIVE']": [
+        "(' Sittin On The Dock Of The Bay ', ' Otis Redding ')"
+    ],
+    "['FOUR', 'MAJ TWO']": [
+        "(' Sittin On The Dock Of The Bay ', ' Otis Redding ')",
+        "(' Old Man ', ' Neil Young ')"
+    ],
+    "['TWO', 'ONE']": [
+        "(' A Horse With No Name ', ' America ')",
+        "(' Good 4 U ', ' Olivia Rodrigo ')",
+        "(' Late Night Talking ', ' Harry Styles ')",
+        "(' Apocalypse ', ' Cigarettes After Sex ')",
+        "(' Come As You Are ', ' Nirvana ')",
+        "(' Time After Time ', ' Cyndi Lauper ')",
+        "(' Another Brick In The Wall Part 2 ', ' Pink Floyd ')",
+        "(' Turn The Page ', ' Bob Seger & The Silver Bullet Band ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR', 'ONE', 'FOUR', 'ONE', 'MAJ TWO', 'FIVE', 'ONE', 'FIVE', 'FOUR', 'ONE', 'FOUR', 'FIVE', 'ONE', 'FIVE']": [
+        "(' Piano Man ', ' Billy Joel ')"
+    ],
+    "['SIX', 'ONE', 'FIVE', 'FOUR']": [
+        "(' Counting Stars ', ' OneRepublic ')",
+        "(' Hello ', ' Adele ')",
+        "(' Before He Cheats ', ' Carrie Underwood ')",
+        "(' Here Without You ', ' 3 Doors Down ')",
+        "(' Impossible ', ' James Arthur ')",
+        "(' Polly ', ' Nirvana ')",
+        "(' In The End ', ' Linkin Park ')"
+    ],
+    "['ONE', 'TWO', 'SIX', 'SIX', 'SIX', 'SIX', 'SIX', 'SIX']": [
+        "(' Stay ', ' Rihanna ')"
+    ],
+    "['ONE', 'TWO', 'SIX', 'FOUR']": [
+        "(' Stay ', ' Rihanna ')",
+        "(' That Funny Feeling ', ' Bo Burnham ')",
+        "(' How Far Ill Go ', ' Alessia Cara ')"
+    ],
+    "['ONE', 'FOUR', 'ONE']": [
+        "(' That Funny Feeling ', ' Bo Burnham ')",
+        "(' I Still Havent Found What Im Looking For ', ' U2 ')",
+        "(' Cover Me Up ', ' Morgan Wallen ')",
+        "(' Should I Stay Or Should I Go ', ' The Clash ')",
+        "(' Jailhouse Rock ', ' Elvis Presley ')"
+    ],
+    "['ONE', 'FOUR', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Free Fallin ', ' Tom Petty ')"
+    ],
+    "['FOUR', 'FOUR', 'FOUR', 'ONE', 'FOUR']": [
+        "(' Free Fallin ', ' Tom Petty ')"
+    ],
+    "['ONE', 'FOUR', 'TWO', 'ONE']": [
+        "(' Sign Of The Times ', ' Harry Styles ')"
+    ],
+    "['ONE', 'SIX', 'FIVE']": [
+        "(' Sign Of The Times ', ' Harry Styles ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'FIVE']": [
+        "(' Somebody That I Used To Know ', ' Gotye ')",
+        "(' Sultans Of Swing ', ' Dire Straits ')",
+        "(' Betty ', ' Taylor Swift ')",
+        "(' Dream On ', ' Aerosmith ')",
+        "(' In The End ', ' Linkin Park ')",
+        "(' All Along The Watchtower ', ' Jimi Hendrix ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'ONE', 'FOUR', 'MIN FOUR', 'ONE']": [
+        "(' In My Life ', ' The Beatles ')"
+    ],
+    "['FOUR', 'SIX', 'THREE']": [
+        "(' Lovely ', ' Billie Eilish ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR', 'FIVE']": [
+        "(' Wonderful Tonight ', ' Eric Clapton ')",
+        "(' Margaritaville ', ' Jimmy Buffett ')",
+        "(' All The Small Things ', ' Blink-182 ')",
+        "(' When You Say Nothing At All ', ' Ronan Keating ')",
+        "(' Chicken Fried ', ' Zac Brown Band ')"
+    ],
+    "['FOUR', 'MIN FOUR', 'ONE', 'THREE']": [
+        "(' Slipping Through My Fingers ', ' ABBA ')"
+    ],
+    "['FOUR', 'ONE', 'THREE', 'TWO', 'FOUR', 'ONE', 'FIVE', 'FIVE', 'ONE']": [
+        "(' Slipping Through My Fingers ', ' ABBA ')"
+    ],
+    "['ONE', 'MAJ TWO', 'FOUR', 'ONE', 'FOUR']": [
+        "(' Blackbird ', ' The Beatles ')"
+    ],
+    "['TWO', 'ONE', 'FOUR']": [
+        "(' Riptide ', ' Vance Joy ')",
+        "(' I Wont Back Down ', ' Tom Petty ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FIVE', 'TWO', 'SIX']": [
+        "(' Dust In The Wind ', ' Kansas ')"
+    ],
+    "['FIVE', 'ONE', 'TWO']": [
+        "(' Dust In The Wind ', ' Kansas ')"
+    ],
+    "['SIX', 'SIX', 'THREE', 'THREE']": [
+        "(' Lemon Tree ', \" Fool\\\\'s Garden \")"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'THREE', 'FOUR', 'ONE', 'FIVE', 'SIX', 'FOUR']": [
+        "(' Under The Bridge ', ' Red Hot Chili Peppers ')"
+    ],
+    "['MAJ SIX', 'SIX', 'FIVE', 'FOUR']": [
+        "(' Under The Bridge ', ' Red Hot Chili Peppers ')"
+    ],
+    "['SIX', 'ONE', 'ONE', 'ONE', 'FOUR']": [
+        "(' Home ', ' Edward Sharpe and the Magnetic Zeros ')"
+    ],
+    "['MAJ FLAT SEVEN', 'FLAT SEVEN', 'FOUR', 'FOUR']": [
+        "(' If I Can Dream ', ' Elvis Presley ')"
+    ],
+    "['FOUR', 'FIVE', 'SIX', 'ONE', 'ONE', 'FOUR']": [
+        "(' Ocean Eyes ', ' Billie Eilish ')"
+    ],
+    "['FOUR', 'THREE', 'SIX']": [
+        "(' Africa ', ' Toto ')"
+    ],
+    "['THREE', 'FOUR', 'THREE', 'SIX', 'FIVE', 'FLAT SEVEN', 'THREE', 'FIVE', 'FOUR', 'FIVE']": [
+        "(' Africa ', ' Toto ')"
+    ],
+    "['FIVE', 'FLAT SEVEN', 'THREE', 'FIVE', 'FOUR', 'FIVE', 'THREE', 'FOUR', 'THREE', 'SIX']": [
+        "(' Africa ', ' Toto ')"
+    ],
+    "['FIVE', 'FIVE', 'THREE']": [
+        "(' Favorite Crime ', ' Olivia Rodrigo ')"
+    ],
+    "['ONE', 'FLAT FIVE', 'MAJ FLAT SIX', 'FIVE']": [
+        "(' Dream A Little Dream Of Me ', ' The Mamas & The Papas ')"
+    ],
+    "['ONE', 'SIX', 'TWO', 'FIVE']": [
+        "(' Dream A Little Dream Of Me ', ' The Mamas & The Papas ')",
+        "(' At My Worst ', ' Pink Sweat$ ')",
+        "(' Happier ', ' Olivia Rodrigo ')"
+    ],
+    "['FIVE', 'ONE', 'FIVE', 'FOUR']": [
+        "(' You Are The Reason ', ' Calum Scott ')"
+    ],
+    "['ONE', 'ONE', 'FOUR', 'ONE']": [
+        "(' Thank You ', ' Dido ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'FIVE']": [
+        "(' Hey Soul Sister ', ' Train ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FOUR', 'FIVE']": [
+        "(' Hey Soul Sister ', ' Train ')",
+        "(' Before You Go ', ' Lewis Capaldi ')",
+        "(' Somebody To Love ', ' Queen ')",
+        "(' Here Without You ', ' 3 Doors Down ')",
+        "(' Down Under ', ' Men at Work ')"
+    ],
+    "['THREE', 'TWO', 'ONE', 'TWO']": [
+        "(' If I Aint Got You ', ' Alicia Keys ')"
+    ],
+    "['MAJ THREE', 'FOUR']": [
+        "(' Toy Story - Youve Got A Friend In Me ', ' Misc Cartoons ')",
+        "(' Master Of Puppets ', ' Metallica ')",
+        "(' Tribute ', ' Tenacious D ')",
+        "(' Mardy Bum ', ' Arctic Monkeys ')",
+        "(' Jailhouse Rock ', ' Elvis Presley ')"
+    ],
+    "['FOUR', 'FOUR', 'MAJ FLAT SEVEN', 'FLAT SEVEN']": [
+        "(' Toy Story - Youve Got A Friend In Me ', ' Misc Cartoons ')"
+    ],
+    "['ONE', 'FIVE', 'TWO', 'FOUR']": [
+        "(' You Belong With Me ', ' Taylor Swift ')",
+        "(' The Greatest Showman - A Million Dreams ', ' Misc Soundtrack ')",
+        "(' All Star ', ' Smash Mouth ')",
+        "(' Banana Pancakes ', ' Jack Johnson ')",
+        "(' Wildest Dreams ', ' Taylor Swift ')",
+        "(' Just Like Heaven ', ' The Cure ')",
+        "(' Closing Time ', ' Semisonic ')"
+    ],
+    "['ONE', 'SIX', 'FIVE', 'FIVE', 'FIVE']": [
+        "(' Fire And Rain ', ' James Taylor ')"
+    ],
+    "['FIVE', 'TWO', 'ONE', 'FIVE', 'FIVE', 'FIVE', 'MAJ TWO', 'FOUR']": [
+        "(' Fire And Rain ', ' James Taylor ')"
+    ],
+    "['FOUR', 'TWO', 'FIVE']": [
+        "(' Fire And Rain ', ' James Taylor ')"
+    ],
+    "['FLAT SEVEN', 'MAJ THREE', 'SIX', 'FIVE', 'FOUR', 'TWO', 'FIVE', 'ONE']": [
+        "(' Yesterday ', ' The Beatles ')"
+    ],
+    "['ONE', 'SIX', 'MAJ TWO', 'FOUR']": [
+        "(' Yesterday ', ' The Beatles ')"
+    ],
+    "['ONE', 'FOUR', 'ONE', 'SIX', 'FOUR', 'FIVE', 'ONE', 'FOUR', 'ONE', 'FOUR', 'FIVE', 'ONE']": [
+        "(' Funeral ', ' Phoebe Bridgers ')"
+    ],
+    "['FOUR', 'ONE', 'FIVE', 'ONE']": [
+        "(' Funeral ', ' Phoebe Bridgers ')",
+        "(' Starman ', ' David Bowie ')",
+        "(' Your Man ', ' Josh Turner ')",
+        "(' Wildflowers ', ' Tom Petty ')"
+    ],
+    "['FOUR', 'TWO']": [
+        "(' Wind Of Change ', ' Scorpions ')"
+    ],
+    "['ONE', 'FIVE', 'TWO', 'FIVE']": [
+        "(' Wind Of Change ', ' Scorpions ')",
+        "(' The Winner Takes It All ', ' ABBA ')"
+    ],
+    "['ONE', 'FIVE', 'SIX']": [
+        "(' Simple Man ', ' Lynyrd Skynyrd ')",
+        "(' I Will Follow You Into The Dark ', ' Death Cab for Cutie ')",
+        "(' Titanium ', ' David Guetta ')",
+        "(' All You Need Is Love ', ' The Beatles ')"
+    ],
+    "['ONE', 'SIX', 'FOUR', 'ONE', 'FIVE']": [
+        "(' I Will Follow You Into The Dark ', ' Death Cab for Cutie ')",
+        "(' Basket Case ', ' Green Day ')"
+    ],
+    "['MAJ SIX', 'SIX', 'FIVE', 'FOUR', 'FOUR', 'TWO', 'SIX']": [
+        "(' Comfortably Numb ', ' Pink Floyd ')"
+    ],
+    "['MAJ FLAT SEVEN', 'FOUR']": [
+        "(' Comfortably Numb ', ' Pink Floyd ')"
+    ],
+    "['MAJ SIX', 'SIX', 'FIVE', 'FOUR', 'TWO', 'SIX']": [
+        "(' Comfortably Numb ', ' Pink Floyd ')"
+    ],
+    "['ONE', 'FOUR', 'MAJ FLAT THREE', 'FIVE', 'ONE']": [
+        "(' Where Did You Sleep Last Night ', ' Nirvana ')"
+    ],
+    "['SIX', 'ONE', 'FOUR']": [
+        "(' July ', ' Noah Cyrus ')",
+        "(' Sand In My Boots ', ' Morgan Wallen ')",
+        "(' Family Line ', ' Conan Gray ')",
+        "(' I Know The End ', ' Phoebe Bridgers ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Wild World ', ' Cat Stevens ')"
+    ],
+    "['TWO', 'FIVE', 'ONE', 'FOUR', 'FOUR']": [
+        "(' Take On Me ', ' a-ha ')",
+        "(' K ', ' Cigarettes After Sex ')"
+    ],
+    "['ONE', 'MAJ FLAT SEVEN', 'MAJ FLAT SEVEN', 'TWO']": [
+        "(' Master Of Puppets ', ' Metallica ')"
+    ],
+    "['MAJ SIX', 'FIVE', 'MAJ SIX', 'FOUR', 'MAJ THREE', 'MAJ FLAT SIX']": [
+        "(' Master Of Puppets ', ' Metallica ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'MAJ THREE', 'MAJ THREE', 'MAJ FLAT SIX']": [
+        "(' Master Of Puppets ', ' Metallica ')"
+    ],
+    "['FIVE', 'TWO', 'ONE']": [
+        "(' The Only Exception ', ' Paramore ')",
+        "(' Learn To Fly ', ' Foo Fighters ')"
+    ],
+    "['TWO', 'ONE', 'FIVE', 'TWO']": [
+        "(' Dont Stop Me Now ', ' Queen ')",
+        "(' Mary Janes Last Dance ', ' Tom Petty and The Heartbreakers ')",
+        "(' Where The Crawdads Sing - Carolina ', ' Misc Soundtrack ')",
+        "(' Turn The Page ', ' Bob Seger & The Silver Bullet Band ')",
+        "(' Under The Bridge ', ' Red Hot Chili Peppers ')"
+    ],
+    "['ONE', 'THREE', 'SIX', 'TWO', 'FIVE']": [
+        "(' Dont Stop Me Now ', ' Queen ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'THREE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Basket Case ', ' Green Day ')"
+    ],
+    "['FIVE', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Across The Universe ', ' The Beatles ')"
+    ],
+    "['ONE', 'SIX', 'THREE', 'TWO', 'FIVE', 'FIVE']": [
+        "(' Across The Universe ', ' The Beatles ')"
+    ],
+    "['SIX', 'MAJ FLAT SEVEN', 'ONE', 'FIVE']": [
+        "(' Friday Im In Love ', ' The Cure ')"
+    ],
+    "['FOUR', 'ONE', 'ONE']": [
+        "(' The Scientist ', ' Coldplay ')"
+    ],
+    "['TWO', 'TWO']": [
+        "(' Sultans Of Swing ', ' Dire Straits ')",
+        "(' Another Brick In The Wall Part 2 ', ' Pink Floyd ')",
+        "(' The Witcher - Toss A Coin To Your Witcher ', ' Misc Television ')",
+        "(' Stayin Alive ', ' Bee Gees ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'MAJ THREE']": [
+        "(' Sultans Of Swing ', ' Dire Straits ')",
+        "(' Hit The Road Jack ', ' Ray Charles ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'MAJ THREE', 'MAJ THREE']": [
+        "(' Sultans Of Swing ', ' Dire Straits ')"
+    ],
+    "['ONE', 'MIN ONE', 'FIVE']": [
+        "(' Wake Me Up When September Ends ', ' Green Day ')",
+        "(' This Is Home ', ' cavetown ')"
+    ],
+    "['SIX', 'ONE', 'FOUR', 'MAJ THREE']": [
+        "(' Seven Nation Army ', ' The White Stripes ')",
+        "(' Feeling Good ', ' Michael Bubl\\\\xc3\\\\xa9 ')"
+    ],
+    "['ONE', 'SIX', 'FOUR', 'ONE']": [
+        "(' Just The Way You Are ', ' Bruno Mars ')",
+        "(' One ', ' U2 ')"
+    ],
+    "['ONE', 'FIVE', 'TWO', 'FOUR', 'FIVE']": [
+        "(' I Dont Want To Miss A Thing ', ' Aerosmith ')",
+        "(' Live Forever ', ' Oasis ')"
+    ],
+    "['FIVE', 'FOUR', 'TWO', 'FOUR', 'TWO']": [
+        "(' Dancing In The Dark ', ' Bruce Springsteen ')"
+    ],
+    "['SIX', 'ONE', 'FOUR', 'FIVE']": [
+        "(' Dancing In The Dark ', ' Bruce Springsteen ')",
+        "(' Bad Habits ', ' Ed Sheeran ')"
+    ],
+    "['SIX', 'FIVE', 'THREE', 'FOUR']": [
+        "(' Like A Stone ', ' Chris Cornell ')",
+        "(' Let Me Down Slowly ', ' Alec Benjamin ')"
+    ],
+    "['FIVE', 'SIX', 'FOUR', 'SIX']": [
+        "(' Like A Stone ', ' Chris Cornell ')"
+    ],
+    "['ONE', 'ONE', 'FOUR', 'SIX', 'FIVE']": [
+        "(' Castle On The Hill ', ' Ed Sheeran ')"
+    ],
+    "['ONE', 'MAJ SIX']": [
+        "(' Proud Mary ', ' Creedence Clearwater Revival ')"
+    ],
+    "['SIX', 'FOUR', 'MAJ THREE']": [
+        "(' Believer ', ' Imagine Dragons ')",
+        "(' Havana ', ' Camila Cabello ')",
+        "(' Sweet Dreams Are Made Of This ', ' Eurythmics ')",
+        "(' Hells Comin With Me ', \" Poor Man\\\\'s Poison \")"
+    ],
+    "['ONE', 'SIX', 'THREE', 'THREE', 'FIVE', 'FIVE']": [
+        "(' Starman ', ' David Bowie ')"
+    ],
+    "['FOUR', 'MAJ THREE', 'SIX', 'ONE']": [
+        "(' Listen Before I Go ', ' Billie Eilish ')"
+    ],
+    "['TWO', 'FIVE', 'FIVE', 'ONE', 'FOUR']": [
+        "(' Listen Before I Go ', ' Billie Eilish ')"
+    ],
+    "['FIVE', 'SIX', 'FOUR', 'FIVE', 'FOUR', 'FIVE', 'SIX']": [
+        "(' Running Up That Hill ', ' Placebo ')"
+    ],
+    "['ONE', 'THREE', 'TWO', 'FIVE']": [
+        "(' Angel Baby ', ' Troye Sivan ')"
+    ],
+    "['FIVE', 'ONE', 'TWO', 'FOUR']": [
+        "(' Peaceful Easy Feeling ', ' Eagles ')"
+    ],
+    "['ONE', 'SIX', 'FOUR', 'FIVE', 'FIVE']": [
+        "(' Before You Go ', ' Lewis Capaldi ')",
+        "(' We Are Young ', ' Fun. ')"
+    ],
+    "['FIVE', 'SIX', 'FOUR', 'FIVE', 'ONE']": [
+        "(' Before You Go ', ' Lewis Capaldi ')",
+        "(' Time After Time ', ' Cyndi Lauper ')",
+        "(' Down Under ', ' Men at Work ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Reckless Love ', ' Cory Asbury ')",
+        "(' Brazil ', ' Declan McKenna ')",
+        "(' Treat You Better ', ' Shawn Mendes ')",
+        "(' Jireh ', ' Elevation Worship ')",
+        "(' Exile ', ' Taylor Swift ')"
+    ],
+    "['ONE', 'ONE', 'MAJ THREE', 'SIX', 'SIX', 'MAJ SIX', 'TWO', 'FIVE']": [
+        "(' The Winner Takes It All ', ' ABBA ')"
+    ],
+    "['MAJ SIX', 'TWO', 'FIVE', 'ONE', 'MAJ THREE', 'SIX', 'SIX']": [
+        "(' The Winner Takes It All ', ' ABBA ')"
+    ],
+    "['FOUR', 'FIVE', 'MAJ SIX']": [
+        "(' Crazy Little Thing Called Love ', ' Queen ')"
+    ],
+    "['FIVE', 'MAJ TWO', 'FOUR', 'ONE']": [
+        "(' Drops Of Jupiter ', ' Train ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'FIVE', 'SIX', 'FOUR', 'ONE']": [
+        "(' Little Talks ', ' Of Monsters and Men ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'THREE']": [
+        "(' A Sky Full Of Stars ', ' Coldplay ')",
+        "(' This Is The Life ', ' Amy Macdonald ')",
+        "(' Unstoppable ', ' Sia ')"
+    ],
+    "['FOUR', 'FIVE', 'SIX', 'ONE']": [
+        "(' A Sky Full Of Stars ', ' Coldplay ')",
+        "(' Numb ', ' Linkin Park ')",
+        "(' Young And Beautiful ', ' Lana Del Rey ')",
+        "(' Build My Life ', ' Housefires ')"
+    ],
+    "['ONE', 'FIVE', 'TWO']": [
+        "(' Fade Into You ', ' Mazzy Star ')",
+        "(' Where The Crawdads Sing - Carolina ', ' Misc Soundtrack ')",
+        "(' Snow Hey Oh ', ' Red Hot Chili Peppers ')",
+        "(' Green Eyes ', ' Coldplay ')"
+    ],
+    "['ONE', 'THREE', 'FOUR', 'ONE']": [
+        "(' The Weight ', ' The Band ')",
+        "(' 1 Step Forward 3 Steps Back ', ' Olivia Rodrigo ')"
+    ],
+    "['FIVE', 'FIVE', 'ONE']": [
+        "(' The Weight ', ' The Band ')"
+    ],
+    "['FIVE', 'FIVE', 'THREE', 'ONE']": [
+        "(' Someone Like You ', ' Adele ')"
+    ],
+    "['FOUR', 'FIVE', 'SIX', 'ONE', 'FOUR', 'FOUR', 'FIVE', 'SIX', 'FIVE']": [
+        "(' Heaven ', ' Bryan Adams ')"
+    ],
+    "['ONE', 'FOUR', 'TWO', 'FIVE', 'ONE', 'FOUR', 'FIVE']": [
+        "(' Youre Still The One ', ' Shania Twain ')"
+    ],
+    "['SIX', 'TWO', 'FOUR', 'FIVE']": [
+        "(' Shape Of You ', ' Ed Sheeran ')"
+    ],
+    "['ONE', 'MAJ SIX', 'MAJ SIX', 'TWO', 'FOUR', 'FIVE', 'FIVE']": [
+        "(' All I Ask ', ' Adele ')"
+    ],
+    "['SIX', 'FOUR', 'TWO', 'FIVE', 'SIX', 'FOUR', 'FIVE']": [
+        "(' Mr Jones ', ' Counting Crows ')"
+    ],
+    "['FOUR', 'SIX', 'FIVE', 'SIX']": [
+        "(' Mr Jones ', ' Counting Crows ')"
+    ],
+    "['TWO', 'FOUR', 'FIVE', 'ONE', 'SIX']": [
+        "(' Boyfriends ', ' Harry Styles ')"
+    ],
+    "['FOUR', 'ONE', 'ONE', 'SIX']": [
+        "(' Boyfriends ', ' Harry Styles ')"
+    ],
+    "['ONE', 'THREE', 'SIX', 'FIVE', 'FOUR']": [
+        "(' Count On Me ', ' Bruno Mars ')"
+    ],
+    "['FIVE', 'THREE', 'ONE']": [
+        "(' How Great Is Our God ', ' Chris Tomlin ')",
+        "(' Only Love Can Hurt Like This ', ' Paloma Faith ')",
+        "(' Enough For You ', ' Olivia Rodrigo ')"
+    ],
+    "['SIX', 'TWO', 'FIVE', 'ONE', 'FOUR', 'FLAT SEVEN', 'MAJ THREE', 'MAJ THREE']": [
+        "(' I Will Survive ', ' Gloria Gaynor ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FIVE', 'FOUR', 'FIVE']": [
+        "(' Beautiful Crazy ', ' Luke Combs ')"
+    ],
+    "['SIX', 'FIVE', 'SIX', 'FIVE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' There Is A Light That Never Goes Out ', ' The Smiths ')"
+    ],
+    "['ONE', 'SIX', 'FOUR', 'FIVE', 'ONE', 'FOUR', 'TWO']": [
+        "(' There Is A Light That Never Goes Out ', ' The Smiths ')"
+    ],
+    "['ONE', 'TWO', 'THREE', 'FOUR']": [
+        "(' Here There And Everywhere ', ' The Beatles ')",
+        "(' Boys Dont Cry ', ' The Cure ')"
+    ],
+    "['SIX', 'TWO', 'MAJ THREE']": [
+        "(' Here There And Everywhere ', ' The Beatles ')",
+        "(' Encanto - We Dont Talk About Bruno ', ' Misc Cartoons ')",
+        "(' You Know Im No Good ', ' Amy Winehouse ')"
+    ],
+    "['ONE', 'FIVE', 'MAJ SIX', 'FIVE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' 21 Guns ', ' Green Day ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'FOUR']": [
+        "(' Love Me Tender ', ' Elvis Presley ')",
+        "(' Chandelier ', ' Sia ')"
+    ],
+    "['SIX', 'TWO', 'FOUR', 'THREE']": [
+        "(' Careless Whisper ', ' George Michael ')"
+    ],
+    "['SIX', 'FOUR', 'TWO']": [
+        "(' Do I Wanna Know ', ' Arctic Monkeys ')",
+        "(' No Time To Die ', ' Billie Eilish ')",
+        "(' Ghost Riders In The Sky ', ' Johnny Cash ')"
+    ],
+    "['SIX', 'FOUR', 'TWO', 'SIX']": [
+        "(' Do I Wanna Know ', ' Arctic Monkeys ')"
+    ],
+    "['TWO', 'FIVE', 'ONE', 'FOUR', 'MAJ FLAT SEVEN', 'FIVE', 'ONE', 'ONE']": [
+        "(' Goodbye Yellow Brick Road ', ' Elton John ')"
+    ],
+    "['FIVE', 'FOUR', 'ONE', 'FOUR']": [
+        "(' Night Moves ', ' Bob Seger & The Silver Bullet Band ')",
+        "(' Plush ', ' Stone Temple Pilots ')"
+    ],
+    "['FOUR', 'FIVE', 'SIX', 'FIVE', 'FOUR']": [
+        "(' Night Moves ', ' Bob Seger & The Silver Bullet Band ')"
+    ],
+    "['MAJ FLAT SEVEN', 'FOUR', 'SIX', 'FIVE']": [
+        "(' Nothing Compares 2 U ', ' Chris Cornell ')"
+    ],
+    "['FOUR', 'MAJ THREE']": [
+        "(' Idontwannabeyouanymore ', ' Billie Eilish ')",
+        "(' Encanto - We Dont Talk About Bruno ', ' Misc Cartoons ')"
+    ],
+    "['FOUR', 'SIX', 'ONE', 'FOUR']": [
+        "(' When The Partys Over ', ' Billie Eilish ')"
+    ],
+    "['SIX', 'ONE', 'FOUR', 'TWO']": [
+        "(' When The Partys Over ', ' Billie Eilish ')",
+        "(' Wheres My Love ', ' SYML ')"
+    ],
+    "['TWO', 'SIX', 'ONE', 'FOUR']": [
+        "(' When The Partys Over ', ' Billie Eilish ')"
+    ],
+    "['FOUR', 'ONE', 'SIX']": [
+        "(' Skinny Love ', ' Birdy ')",
+        "(' Stay ', ' Post Malone ')"
+    ],
+    "['TWO', 'TWO', 'SIX', 'SIX']": [
+        "(' Grenade ', ' Bruno Mars ')"
+    ],
+    "['SIX', 'ONE']": [
+        "(' Video Games ', ' Lana Del Rey ')",
+        "(' All My Loving ', ' The Beatles ')",
+        "(' Come As You Are ', ' Nirvana ')",
+        "(' Little Lion Man ', ' Mumford & Sons ')",
+        "(' When I Come Around ', ' Green Day ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR', 'THREE', 'THREE', 'ONE']": [
+        "(' Video Games ', ' Lana Del Rey ')"
+    ],
+    "['TWO', 'TWO', 'FIVE']": [
+        "(' Mary Janes Last Dance ', ' Tom Petty and The Heartbreakers ')"
+    ],
+    "['FOUR', 'MAJ THREE', 'SIX']": [
+        "(' Havana ', ' Camila Cabello ')"
+    ],
+    "['ONE', 'FOUR', 'TWO', 'FIVE']": [
+        "(' August ', ' Taylor Swift ')",
+        "(' The Climb ', ' Miley Cyrus ')"
+    ],
+    "['ONE', 'FOUR', 'TWO', 'FIVE', 'ONE']": [
+        "(' August ', ' Taylor Swift ')"
+    ],
+    "['FOUR', 'ONE', 'FIVE', 'SIX', 'FIVE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Good 4 U ', ' Olivia Rodrigo ')"
+    ],
+    "['ONE', 'THREE', 'SIX', 'THREE']": [
+        "(' Fix You ', ' Coldplay ')"
+    ],
+    "['FOUR', 'ONE', 'FIVE', 'FIVE']": [
+        "(' Fix You ', ' Coldplay ')"
+    ],
+    "['SIX', 'SIX', 'SIX', 'SIX', 'ONE', 'MAJ THREE', 'SIX']": [
+        "(' Toxic ', ' Britney Spears ')"
+    ],
+    "['ONE', 'SIX', 'FIVE', 'SIX', 'FIVE']": [
+        "(' Little Freak ', ' Harry Styles ')"
+    ],
+    "['MAJ FLAT SEVEN', 'MAJ FLAT SEVEN']": [
+        "(' Bohemian Rhapsody ', ' Queen ')"
+    ],
+    "['SIX', 'FLAT SIX']": [
+        "(' Bohemian Rhapsody ', ' Queen ')"
+    ],
+    "['ONE', 'FOUR', 'FOUR', 'MAJ TWO', 'ONE', 'SIX', 'FOUR', 'MAJ THREE', 'MAJ THREE', 'SIX']": [
+        "(' Bridge Over Troubled Water ', ' Simon & Garfunkel ')"
+    ],
+    "['SIX', 'MAJ THREE', 'ONE', 'TWO', 'MAJ THREE']": [
+        "(' Baby One More Time ', ' Britney Spears ')"
+    ],
+    "['SIX', 'MAJ THREE', 'ONE', 'TWO', 'MAJ THREE', 'SIX', 'MAJ THREE', 'FOUR', 'FIVE', 'ONE', 'TWO', 'MAJ THREE']": [
+        "(' Baby One More Time ', ' Britney Spears ')"
+    ],
+    "['SIX', 'TWO', 'MAJ THREE', 'TWO']": [
+        "(' Encanto - We Dont Talk About Bruno ', ' Misc Cartoons ')"
+    ],
+    "['SIX', 'MAJ FLAT SIX', 'ONE']": [
+        "(' All My Loving ', ' The Beatles ')"
+    ],
+    "['SIX', 'MAJ THREE', 'FOUR', 'ONE']": [
+        "(' Say It Aint So ', ' Weezer ')"
+    ],
+    "['FOUR', 'ONE', 'SIX', 'SIX', 'MAJ THREE', 'MAJ THREE']": [
+        "(' Say It Aint So ', ' Weezer ')"
+    ],
+    "['FIVE', 'FIVE', 'FIVE', 'FIVE', 'ONE', 'ONE', 'MAJ FLAT THREE', 'MAJ FLAT THREE']": [
+        "(' Say It Aint So ', ' Weezer ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE']": [
+        "(' The Greatest Showman - Never Enough ', ' Misc Soundtrack ')",
+        "(' I Will Wait ', ' Mumford & Sons ')",
+        "(' Tears In Heaven ', ' Eric Clapton ')"
+    ],
+    "['ONE', 'FIVE', 'TWO', 'SIX', 'FOUR']": [
+        "(' The Greatest Showman - Never Enough ', ' Misc Soundtrack ')"
+    ],
+    "['ONE', 'FOUR', 'ONE', 'FOUR', 'ONE', 'FOUR', 'FIVE', 'ONE', 'FOUR', 'ONE', 'FOUR', 'ONE', 'FIVE', 'ONE']": [
+        "(' The Gambler ', ' Kenny Rogers ')"
+    ],
+    "['ONE', 'ONE', 'FOUR', 'TWO', 'FIVE', 'ONE', 'ONE', 'FOUR', 'TWO', 'FOUR', 'ONE', 'FOUR', 'FIVE']": [
+        "(' Lyin Eyes ', ' Eagles ')"
+    ],
+    "['FIVE', 'SIX', 'THREE', 'ONE']": [
+        "(' O Come To The Altar ', ' Elevation Worship ')",
+        "(' Halo ', ' Beyonc\\\\xc3\\\\xa9 ')"
+    ],
+    "['FIVE', 'FIVE', 'THREE', 'ONE', 'FIVE']": [
+        "(' O Come To The Altar ', ' Elevation Worship ')"
+    ],
+    "['FOUR', 'SIX', 'FIVE', 'TWO']": [
+        "(' Summertime Sadness ', ' Lana Del Rey ')"
+    ],
+    "['FIVE', 'SIX', 'FOUR', 'TWO']": [
+        "(' Summertime Sadness ', ' Lana Del Rey ')"
+    ],
+    "['TWO', 'ONE', 'SIX', 'FIVE']": [
+        "(' Heat Waves ', ' Glass Animals ')",
+        "(' Bruises ', ' Lewis Capaldi ')"
+    ],
+    "['TWO', 'ONE', 'SIX', 'FIVE', 'FOUR', 'ONE', 'SIX', 'FIVE']": [
+        "(' Heat Waves ', ' Glass Animals ')"
+    ],
+    "['ONE', 'SIX', 'FIVE', 'FIVE', 'FIVE', 'ONE', 'SIX', 'FIVE', 'FOUR', 'ONE', 'FIVE', 'FOUR', 'FIVE', 'ONE']": [
+        "(' The Boxer ', ' Simon & Garfunkel ')"
+    ],
+    "['SIX', 'THREE', 'SIX', 'FIVE', 'SIX']": [
+        "(' The Boxer ', ' Simon & Garfunkel ')"
+    ],
+    "['ONE', 'FIVE', 'ONE', 'FOUR']": [
+        "(' Teenage Dirtbag ', ' Wheatus ')",
+        "(' Mamma Mia ', ' ABBA ')",
+        "(' Here I Am To Worship ', ' Chris Tomlin ')"
+    ],
+    "['ONE', 'FOUR', 'FIVE', 'SIX', 'THREE']": [
+        "(' Teenage Dirtbag ', ' Wheatus ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'FIVE', 'FOUR']": [
+        "(' Oceans Where Feet May Fail ', ' Hillsong United ')",
+        "(' Male Fantasy ', ' Billie Eilish ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'FIVE', 'TWO']": [
+        "(' Oceans Where Feet May Fail ', ' Hillsong United ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'FOUR', 'SIX', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Stitches ', ' Shawn Mendes ')"
+    ],
+    "['TWO', 'FIVE', 'ONE', 'ONE']": [
+        "(' Kiss Me ', ' Sixpence None the Richer ')",
+        "(' Sunday Morning ', ' Maroon 5 ')",
+        "(' What A Wonderful World ', ' Louis Armstrong ')"
+    ],
+    "['FIVE', 'FOUR', 'FOUR']": [
+        "(' Everybody Wants To Rule The World ', ' Tears for Fears ')"
+    ],
+    "['FIVE', 'FOUR', 'FOUR', 'FIVE']": [
+        "(' Everybody Wants To Rule The World ', ' Tears for Fears ')"
+    ],
+    "['FOUR', 'ONE', 'ONE', 'FIVE', 'FIVE']": [
+        "(' Everybody Wants To Rule The World ', ' Tears for Fears ')"
+    ],
+    "['TWO', 'THREE', 'FOUR', 'THREE', 'TWO', 'THREE', 'FOUR', 'FIVE']": [
+        "(' Everybody Wants To Rule The World ', ' Tears for Fears ')"
+    ],
+    "['TWO', 'FOUR', 'SIX', 'FIVE']": [
+        "(' Get Lucky ', ' Daft Punk ')",
+        "(' Mercy ', ' Shawn Mendes ')",
+        "(' Little Things ', ' One Direction ')"
+    ],
+    "['FIVE', 'TWO', 'FOUR', 'SIX']": [
+        "(' Get Lucky ', ' Daft Punk ')",
+        "(' Little Things ', ' One Direction ')"
+    ],
+    "['ONE', 'SIX', 'FIVE', 'FIVE', 'FOUR', 'ONE', 'FOUR']": [
+        "(' Fake Plastic Trees ', ' Radiohead ')"
+    ],
+    "['SIX', 'FIVE', 'FIVE']": [
+        "(' Fake Plastic Trees ', ' Radiohead ')"
+    ],
+    "['ONE', 'THREE', 'SIX', 'FIVE', 'FOUR', 'ONE', 'TWO', 'FIVE']": [
+        "(' Memories ', ' Conan Gray ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FIVE', 'FOUR', 'SIX', 'TWO', 'FIVE']": [
+        "(' Memories ', ' Conan Gray ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FIVE', 'MAJ THREE', 'FOUR']": [
+        "(' Memories ', ' Conan Gray ')"
+    ],
+    "['TWO', 'FOUR', 'ONE', 'MAJ FLAT SEVEN', 'FIVE']": [
+        "(' Behind Blue Eyes ', ' Limp Bizkit ')"
+    ],
+    "['FIVE', 'THREE', 'ONE', 'FIVE']": [
+        "(' Enough For You ', ' Olivia Rodrigo ')"
+    ],
+    "['FOUR', 'SIX', 'TWO', 'ONE', 'FOUR', 'TWO', 'ONE']": [
+        "(' November Rain ', \" Guns N\\\\' Roses \")"
+    ],
+    "['TWO', 'FIVE', 'FIVE', 'MIN FIVE', 'ONE', 'FOUR']": [
+        "(' Isnt She Lovely ', ' Stevie Wonder ')"
+    ],
+    "['ONE', 'SIX', 'TWO', 'TWO', 'FIVE']": [
+        "(' Happier ', ' Olivia Rodrigo ')"
+    ],
+    "['ONE', 'MAJ THREE', 'SIX', 'FOUR', 'FIVE', 'ONE', 'ONE', 'MAJ THREE', 'SIX', 'MAJ TWO', 'FIVE', 'FIVE']": [
+        "(' First Day Of My Life ', ' Bright Eyes ')"
+    ],
+    "['MAJ THREE', 'SIX', 'TWO', 'MIN FOUR', 'ONE']": [
+        "(' First Day Of My Life ', ' Bright Eyes ')"
+    ],
+    "['SIX', 'ONE', 'FOUR', 'FIVE', 'SIX', 'ONE', 'TWO', 'FOUR']": [
+        "(' Bad Habits ', ' Ed Sheeran ')"
+    ],
+    "['SIX', 'FOUR', 'TWO', 'FIVE']": [
+        "(' Mandaaram Kathawe ', ' Anushka Udana ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FIVE', 'FOUR', 'ONE', 'TWO', 'FIVE']": [
+        "(' Always On My Mind ', ' Elvis Presley ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FIVE', 'FOUR', 'FOUR', 'FIVE']": [
+        "(' Always On My Mind ', ' Elvis Presley ')"
+    ],
+    "['ONE', 'MAJ THREE', 'SIX', 'MIN FOUR', 'FIVE']": [
+        "(' Happier Than Ever ', ' Billie Eilish ')"
+    ],
+    "['ONE', 'MAJ THREE', 'SIX', 'FOUR', 'FIVE']": [
+        "(' Happier Than Ever ', ' Billie Eilish ')"
+    ],
+    "['FOUR', 'ONE', 'MAJ THREE', 'MAJ SIX']": [
+        "(' Happier Than Ever ', ' Billie Eilish ')"
+    ],
+    "['ONE', 'MAJ THREE', 'MAJ SIX', 'FOUR']": [
+        "(' Happier Than Ever ', ' Billie Eilish ')"
+    ],
+    "['FOUR', 'FIVE', 'SIX', 'ONE', 'FIVE']": [
+        "(' How To Save A Life ', ' The Fray ')"
+    ],
+    "['SIX', 'FIVE', 'TWO', 'TWO', 'FIVE', 'SIX']": [
+        "(' Where The Crawdads Sing - Carolina ', ' Misc Soundtrack ')"
+    ],
+    "['ONE', 'FOUR', 'THREE', 'TWO', 'FIVE']": [
+        "(' The Long And Winding Road ', ' The Beatles ')"
+    ],
+    "['FOUR', 'FOUR', 'FIVE']": [
+        "(' I Want To Hold Your Hand ', ' The Beatles ')",
+        "(' The Boys Of Summer ', ' Don Henley ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'SIX']": [
+        "(' Titanium ', ' David Guetta ')"
+    ],
+    "['FOUR', 'FIVE', 'THREE', 'SIX', 'MAJ SIX']": [
+        "(' Titanium ', ' David Guetta ')"
+    ],
+    "['FOUR', 'FIVE', 'THREE', 'SIX']": [
+        "(' Titanium ', ' David Guetta ')",
+        "(' Cruel Summer ', ' Taylor Swift ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FOUR', 'MIN FOUR']": [
+        "(' Jar Of Hearts ', ' Christina Perri ')"
+    ],
+    "['TWO', 'MAJ SIX', 'TWO', 'FIVE']": [
+        "(' Jar Of Hearts ', ' Christina Perri ')"
+    ],
+    "['MIN FOUR', 'ONE']": [
+        "(' Jar Of Hearts ', ' Christina Perri ')",
+        "(' If I Fell ', ' The Beatles ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FIVE', 'FOUR']": [
+        "(' What A Beautiful Name ', ' Hillsong Worship ')",
+        "(' Man In The Mirror ', ' Michael Jackson ')"
+    ],
+    "['FIVE', 'FOUR', 'ONE', 'MAJ TWO']": [
+        "(' Champagne Supernova ', ' Oasis ')"
+    ],
+    "['MAJ SIX', 'FIVE', 'MAJ TWO', 'FOUR', 'FIVE']": [
+        "(' Champagne Supernova ', ' Oasis ')"
+    ],
+    "['ONE', 'THREE', 'FOUR']": [
+        "(' Torn ', ' Natalie Imbruglia ')",
+        "(' Supermarket Flowers ', ' Ed Sheeran ')",
+        "(' Amarillo By Morning ', ' George Strait ')",
+        "(' Use Somebody ', ' Kings of Leon ')",
+        "(' Sister Golden Hair ', ' America ')"
+    ],
+    "['TWO', 'FIVE', 'SIX']": [
+        "(' Englishman In New York ', ' Sting ')",
+        "(' Lost On You ', ' LP ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'THREE', 'FOUR', 'ONE', 'FOUR', 'FIVE']": [
+        "(' Memories ', ' Maroon 5 ')"
+    ],
+    "['SIX', 'ONE', 'FIVE', 'TWO']": [
+        "(' Set Fire To The Rain ', ' Adele ')",
+        "(' Too Good At Goodbyes ', ' Sam Smith ')"
+    ],
+    "['SIX', 'SIX', 'SIX', 'FIVE', 'FIVE', 'FIVE', 'TWO', 'TWO', 'FOUR', 'SIX', 'FIVE']": [
+        "(' Set Fire To The Rain ', ' Adele ')"
+    ],
+    "['FOUR', 'ONE', 'THREE', 'FIVE']": [
+        "(' Set Fire To The Rain ', ' Adele ')"
+    ],
+    "['ONE', 'TWO', 'TWO', 'FOUR']": [
+        "(' Dont Let Me Down ', ' The Beatles ')"
+    ],
+    "['SIX', 'FOUR', 'FIVE', 'ONE', 'SIX', 'FOUR', 'FIVE', 'FOUR']": [
+        "(' The River ', ' Bruce Springsteen ')"
+    ],
+    "['SIX', 'FIVE', 'SIX', 'FOUR', 'ONE']": [
+        "(' Seventeen Going Under ', ' Sam Fender ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'SIX', 'FIVE']": [
+        "(' Seventeen Going Under ', ' Sam Fender ')"
+    ],
+    "['FIVE', 'ONE', 'FLAT TWO', 'ONE']": [
+        "(' All Star ', ' Smash Mouth ')"
+    ],
+    "['ONE', 'ONE', 'TWO', 'FIVE', 'ONE']": [
+        "(' Friends In Low Places ', ' Garth Brooks ')"
+    ],
+    "['SIX', 'FOUR', 'MAJ TWO', 'TWO']": [
+        "(' No Time To Die ', ' Billie Eilish ')",
+        "(' Skyfall ', ' Adele ')"
+    ],
+    "['SIX', 'TWO', 'FIVE', 'ONE', 'MAJ THREE']": [
+        "(' Late Night Talking ', ' Harry Styles ')"
+    ],
+    "['THREE', 'FIVE']": [
+        "(' About A Girl ', ' Nirvana ')",
+        "(' Come As You Are ', ' Nirvana ')"
+    ],
+    "['MAJ FLAT SEVEN', 'MAJ FLAT SEVEN', 'MAJ THREE']": [
+        "(' About A Girl ', ' Nirvana ')"
+    ],
+    "['SIX', 'THREE', 'FOUR', 'ONE']": [
+        "(' Snuff ', ' Slipknot ')"
+    ],
+    "['FOUR', 'SIX', 'THREE', 'FOUR', 'FIVE', 'SIX', 'THREE', 'FOUR']": [
+        "(' Bruises ', ' Lewis Capaldi ')"
+    ],
+    "['SIX', 'THREE', 'FIVE']": [
+        "(' Tek It ', ' Cafun\\\\xc3\\\\xa9 ')"
+    ],
+    "['FIVE', 'TWO']": [
+        "(' Yours ', ' Conan Gray ')",
+        "(' Happy Together ', ' The Turtles ')"
+    ],
+    "['TWO', 'FIVE', 'ONE', 'ONE', 'SIX']": [
+        "(' Yours ', ' Conan Gray ')",
+        "(' This Town ', ' Niall Horan ')"
+    ],
+    "['SIX', 'ONE', 'FIVE', 'FOUR', 'SIX', 'ONE', 'FIVE']": [
+        "(' Galway Girl ', ' Ed Sheeran ')"
+    ],
+    "['TWO', 'FIVE', 'ONE', 'FIVE', 'FOUR', 'FIVE', 'FOUR']": [
+        "(' Fourth Of July ', ' Sufjan Stevens ')"
+    ],
+    "['SIX', 'THREE', 'ONE', 'FIVE']": [
+        "(' Halo ', ' Beyonc\\\\xc3\\\\xa9 ')"
+    ],
+    "['FIVE', 'SIX', 'ONE', 'FIVE', 'FIVE']": [
+        "(' Dont Worry Be Happy ', ' Bobby McFerrin ')"
+    ],
+    "['FOUR', 'FIVE', 'THREE', 'FOUR']": [
+        "(' Everything I Wanted ', ' Billie Eilish ')",
+        "(' Arcade ', ' Duncan Laurence ')"
+    ],
+    "['FIVE', 'THREE', 'FOUR', 'FOUR']": [
+        "(' Everything I Wanted ', ' Billie Eilish ')"
+    ],
+    "['MIN FIVE', 'FIVE', 'FIVE']": [
+        "(' Exit Music For A Film ', ' Radiohead ')"
+    ],
+    "['FLAT SEVEN', 'FOUR', 'ONE', 'MIN ONE', 'ONE', 'ONE', 'MIN ONE', 'FIVE']": [
+        "(' Exit Music For A Film ', ' Radiohead ')"
+    ],
+    "['MIN ONE', 'FIVE', 'ONE', 'ONE']": [
+        "(' Exit Music For A Film ', ' Radiohead ')"
+    ],
+    "['FIVE', 'TWO', 'FOUR', 'FIVE', 'SIX']": [
+        "(' Live Forever ', ' Oasis ')"
+    ],
+    "['MAJ THREE', 'SIX']": [
+        "(' Youve Got A Friend ', ' James Taylor ')",
+        "(' Perfect Day ', ' Lou Reed ')",
+        "(' Everybody Hurts ', ' R.E.M. ')",
+        "(' Hells Comin With Me ', \" Poor Man\\\\'s Poison \")"
+    ],
+    "['SIX', 'SIX', 'FIVE', 'SIX', 'SIX', 'FIVE', 'SIX', 'SIX', 'THREE', 'FOUR']": [
+        "(' Eye Of The Tiger ', ' Survivor ')"
+    ],
+    "['ONE', 'FIVE', 'MAJ FLAT SEVEN', 'FOUR']": [
+        "(' Linger ', ' The Cranberries ')"
+    ],
+    "['ONE', 'FIVE', 'TWO', 'FOUR', 'ONE', 'FIVE', 'FOUR']": [
+        "(' Here I Am To Worship ', ' Chris Tomlin ')"
+    ],
+    "['FIVE', 'ONE', 'FOUR']": [
+        "(' Here I Am To Worship ', ' Chris Tomlin ')",
+        "(' Lola ', ' The Kinks ')",
+        "(' Forever And Ever Amen ', ' Randy Travis ')"
+    ],
+    "['ONE', 'ONE', 'SIX', 'SIX', 'FOUR', 'ONE', 'TWO', 'FIVE']": [
+        "(' Better Together ', ' Jack Johnson ')"
+    ],
+    "['FOUR', 'FIVE', 'MAJ FLAT FIVE', 'FOUR']": [
+        "(' Better Together ', ' Jack Johnson ')"
+    ],
+    "['SIX', 'FOUR', 'FIVE', 'THREE']": [
+        "(' Chandelier ', ' Sia ')",
+        "(' Dance Monkey ', ' Tones And I ')",
+        "(' Wherever You Will Go ', ' The Calling ')"
+    ],
+    "['TWO', 'FIVE', 'FOUR', 'FIVE']": [
+        "(' Cardigan ', ' Taylor Swift ')"
+    ],
+    "['ONE', 'ONE', 'FOUR', 'FOUR', 'FIVE', 'FOUR', 'ONE', 'FOUR']": [
+        "(' Fake Plastic Trees ', ' Radiohead ')"
+    ],
+    "['FOUR', 'ONE', 'TWO', 'TWO', 'ONE', 'FOUR', 'ONE', 'TWO', 'FOUR', 'ONE', 'FIVE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Tiny Dancer ', ' Elton John ')"
+    ],
+    "['ONE', 'FIVE', 'ONE', 'THREE']": [
+        "(' Candy ', ' Paolo Nutini ')"
+    ],
+    "['TWO', 'FIVE', 'ONE']": [
+        "(' La La Land - City Of Stars ', ' Misc Soundtrack ')",
+        "(' Sunday Morning ', ' Maroon 5 ')"
+    ],
+    "['FIVE', 'THREE', 'SIX', 'FIVE', 'ONE']": [
+        "(' Love Of My Life ', ' Harry Styles ')"
+    ],
+    "['FOUR', 'ONE', 'SIX', 'TWO', 'ONE', 'FOUR', 'MAJ FLAT SEVEN', 'ONE', 'SIX', 'TWO', 'FIVE', 'ONE']": [
+        "(' Love Of My Life ', ' Harry Styles ')"
+    ],
+    "['FOUR', 'SIX', 'FIVE', 'ONE']": [
+        "(' This Town ', ' Niall Horan ')"
+    ],
+    "['TWO', 'FOUR', 'ONE', 'TWO']": [
+        "(' Time ', ' Pink Floyd ')"
+    ],
+    "['SIX', 'ONE', 'FIVE', 'SIX']": [
+        "(' Time ', ' Pink Floyd ')"
+    ],
+    "['FIVE', 'ONE', 'SIX', 'FOUR']": [
+        "(' Line Without A Hook ', ' Ricky Montgomery ')",
+        "(' Nothing New ', ' Taylor Swift ')",
+        "(' Total Eclipse Of The Heart ', ' Bonnie Tyler ')"
+    ],
+    "['THREE', 'ONE', 'SIX', 'FIVE']": [
+        "(' Francis Forever ', ' Mitski ')"
+    ],
+    "['FOUR', 'SIX', 'THREE', 'FOUR', 'SIX', 'FIVE']": [
+        "(' Your Power ', ' Billie Eilish ')"
+    ],
+    "['SIX', 'SIX', 'FOUR', 'FOUR', 'MAJ TWO', 'MAJ TWO', 'FLAT SEVEN', 'MAJ THREE', 'MAJ THREE']": [
+        "(' Skyfall ', ' Adele ')"
+    ],
+    "['TWO', 'TWO', 'MAJ FLAT SEVEN', 'MAJ FLAT SEVEN', 'FIVE', 'FIVE', 'THREE', 'MAJ SIX', 'MAJ SIX']": [
+        "(' Skyfall ', ' Adele ')"
+    ],
+    "['FOUR', 'ONE', 'MAJ FLAT SEVEN', 'FIVE']": [
+        "(' Wanted Dead Or Alive ', ' Bon Jovi ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR', 'MAJ TWO']": [
+        "(' Wanted Dead Or Alive ', ' Bon Jovi ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR', 'ONE', 'SIX', 'TWO', 'FOUR', 'FIVE']": [
+        "(' Yellow Submarine ', ' The Beatles ')"
+    ],
+    "['FOUR', 'ONE', 'ONE', 'FOUR']": [
+        "(' Yellow Submarine ', ' The Beatles ')"
+    ],
+    "['ONE', 'SIX', 'FIVE', 'THREE', 'FOUR']": [
+        "(' Falling ', ' Harry Styles ')"
+    ],
+    "['ONE', 'ONE', 'ONE', 'FOUR', 'FOUR', 'FOUR', 'FIVE', 'FIVE', 'FOUR', 'FOUR', 'FOUR']": [
+        "(' Starting Over ', ' Chris Stapleton ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'FOUR', 'FIVE', 'ONE']": [
+        "(' Starting Over ', ' Chris Stapleton ')"
+    ],
+    "['MAJ SIX', 'FOUR', 'MAJ TWO']": [
+        "(' Heart Shaped Box ', ' Nirvana ')"
+    ],
+    "['FIVE', 'FIVE', 'FIVE', 'ONE', 'ONE', 'FOUR', 'ONE', 'ONE', 'FOUR', 'ONE', 'ONE', 'FOUR', 'ONE', 'FIVE', 'FIVE']": [
+        "(' Highway To Hell ', ' AC/DC ')"
+    ],
+    "['ONE', 'FIVE', 'FIVE', 'FIVE', 'ONE', 'FOUR']": [
+        "(' Highway To Hell ', ' AC/DC ')"
+    ],
+    "['FOUR', 'FIVE', 'THREE']": [
+        "(' Time After Time ', ' Cyndi Lauper ')"
+    ],
+    "['FOUR', 'MAJ THREE', 'SIX', 'FIVE']": [
+        "(' Hit The Road Jack ', ' Ray Charles ')"
+    ],
+    "['ONE', 'MAJ THREE', 'FOUR', 'FOUR', 'FIVE']": [
+        "(' Stand By Me ', ' Oasis ')"
+    ],
+    "['ONE', 'FIVE', 'TWO', 'FOUR', 'MAJ FLAT SEVEN', 'FIVE', 'ONE']": [
+        "(' Stand By Me ', ' Oasis ')"
+    ],
+    "['FIVE', 'FOUR', 'ONE', 'FIVE', 'SIX']": [
+        "(' Way Maker ', ' Sinach ')"
+    ],
+    "['ONE', 'FOUR', 'SIX']": [
+        "(' Jealous ', ' Labrinth ')"
+    ],
+    "['FOUR', 'ONE', 'SIX', 'FIVE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' I Wont Give Up ', ' Jason Mraz ')",
+        "(' Let It Go ', ' James Bay ')"
+    ],
+    "['FIVE', 'FOUR', 'SIX']": [
+        "(' Black ', ' Pearl Jam ')",
+        "(' Times Like These ', ' Foo Fighters ')"
+    ],
+    "['MAJ TWO', 'FIVE']": [
+        "(' Black ', ' Pearl Jam ')"
+    ],
+    "['ONE', 'SIX', 'TWO', 'THREE', 'MAJ THREE']": [
+        "(' Slow Dancing In The Dark ', ' Joji ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'FOUR', 'FIVE']": [
+        "(' 7 Years ', ' Lukas Graham ')"
+    ],
+    "['TWO', 'FIVE', 'ONE', 'MAJ THREE']": [
+        "(' I Love You So ', ' The Walters ')"
+    ],
+    "['ONE', 'THREE', 'FOUR', 'FLAT FIVE', 'FIVE', 'FIVE', 'FIVE']": [
+        "(' Pluto Projector ', ' Rex Orange County ')"
+    ],
+    "['ONE', 'MAJ THREE', 'SIX', 'MAJ SIX', 'TWO', 'MAJ FLAT TWO', 'ONE']": [
+        "(' Pluto Projector ', ' Rex Orange County ')"
+    ],
+    "['ONE', 'SIX', 'FOUR', 'FOUR', 'FIVE', 'FIVE']": [
+        "(' Million Reasons ', ' Lady Gaga ')"
+    ],
+    "['SIX', 'MAJ TWO', 'FIVE', 'ONE', 'FOUR', 'TWO', 'MAJ THREE']": [
+        "(' Perfect Day ', ' Lou Reed ')"
+    ],
+    "['FLAT SEVEN', 'FOUR', 'ONE', 'ONE', 'ONE', 'FIVE']": [
+        "(' Perfect Day ', ' Lou Reed ')"
+    ],
+    "['TWO', 'SIX', 'MAJ THREE', 'SIX']": [
+        "(' You Know Im No Good ', ' Amy Winehouse ')"
+    ],
+    "['ONE', 'FOUR', 'ONE', 'TWO']": [
+        "(' Ironic ', ' Alanis Morissette ')"
+    ],
+    "['FIVE', 'ONE', 'FIVE', 'SIX']": [
+        "(' Ironic ', ' Alanis Morissette ')",
+        "(' How Great Thou Art ', ' Charlie Hall ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'MAJ THREE']": [
+        "(' The Passenger ', ' Iggy Pop ')",
+        "(' Holiday ', ' Green Day ')",
+        "(' Wake Me Up ', ' Avicii ')"
+    ],
+    "['MAJ SIX', 'MAJ TWO', 'FIVE']": [
+        "(' Lola ', ' The Kinks ')"
+    ],
+    "['MAJ TWO', 'FIVE', 'ONE']": [
+        "(' Lola ', ' The Kinks ')"
+    ],
+    "['MAJ SIX', 'MAJ TWO', 'FIVE', 'FOUR', 'FOUR', 'FIVE']": [
+        "(' Lola ', ' The Kinks ')"
+    ],
+    "['ONE', 'TWO', 'FOUR', 'FIVE']": [
+        "(' Accidentally In Love ', ' Counting Crows ')",
+        "(' Vincent ', ' Don McLean ')",
+        "(' Upside Down ', ' Jack Johnson ')",
+        "(' My Girl ', ' The Temptations ')"
+    ],
+    "['ONE', 'FOUR', 'MIN FOUR', 'ONE', 'FOUR']": [
+        "(' Circles ', ' Post Malone ')"
+    ],
+    "['ONE', 'FOUR', 'MIN FOUR', 'ONE']": [
+        "(' Circles ', ' Post Malone ')"
+    ],
+    "['ONE', 'ONE', 'FOUR', 'MIN FOUR']": [
+        "(' Circles ', ' Post Malone ')",
+        "(' Best Friend ', ' Rex Orange County ')"
+    ],
+    "['SIX', 'ONE', 'FOUR', 'FLAT THREE', 'MAJ THREE']": [
+        "(' House Of Memories ', ' Panic! At the Disco ')"
+    ],
+    "['THREE', 'THREE', 'ONE', 'FOUR']": [
+        "(' A Day In The Life ', ' The Beatles ')"
+    ],
+    "['ONE', 'MAJ FLAT SEVEN', 'ONE', 'FIVE', 'ONE', 'FIVE']": [
+        "(' A Day In The Life ', ' The Beatles ')"
+    ],
+    "['FOUR', 'ONE', 'FIVE', 'MAJ TWO', 'MAJ SIX']": [
+        "(' A Day In The Life ', ' The Beatles ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'ONE', 'FOUR', 'ONE', 'TWO', 'FIVE']": [
+        "(' Always On My Mind ', ' Willie Nelson ')"
+    ],
+    "['MAJ FLAT SIX', 'FIVE']": [
+        "(' Dream A Little Dream Of Me ', ' The Mamas & The Papas ')"
+    ],
+    "['FIVE', 'FOUR', 'FIVE', 'SIX', 'FOUR', 'FIVE']": [
+        "(' Motion Sickness ', ' Phoebe Bridgers ')"
+    ],
+    "['ONE', 'ONE', 'SIX', 'FIVE', 'FOUR', 'FIVE']": [
+        "(' Betty ', ' Taylor Swift ')"
+    ],
+    "['ONE', 'ONE', 'SIX', 'FIVE', 'FOUR', 'ONE', 'TWO', 'FIVE']": [
+        "(' Betty ', ' Taylor Swift ')"
+    ],
+    "['SIX', 'TWO', 'MAJ THREE', 'FOUR', 'FIVE']": [
+        "(' Im Still Standing ', ' Elton John ')"
+    ],
+    "['ONE', 'FOUR', 'FIVE', 'ONE', 'TWO', 'FOUR', 'FIVE', 'SIX', 'FOUR', 'ONE', 'TWO']": [
+        "(' Im Still Standing ', ' Elton John ')"
+    ],
+    "['TWO', 'MAJ THREE', 'SIX']": [
+        "(' Im Still Standing ', ' Elton John ')",
+        "(' Dont Speak ', ' No Doubt ')"
+    ],
+    "['TWO', 'ONE', 'FIVE', 'SIX']": [
+        "(' Let It Go ', ' James Bay ')"
+    ],
+    "['SIX', 'MAJ TWO', 'FOUR', 'FIVE']": [
+        "(' One ', ' U2 ')"
+    ],
+    "['ONE', 'MAJ TWO', 'FOUR', 'ONE']": [
+        "(' Put Your Records On ', ' Corinne Bailey Rae ')",
+        "(' Eight Days A Week ', ' The Beatles ')"
+    ],
+    "['FIVE', 'MAJ SIX', 'ONE', 'FIVE']": [
+        "(' Put Your Records On ', ' Corinne Bailey Rae ')"
+    ],
+    "['FOUR', 'FOUR', 'ONE', 'MAJ THREE']": [
+        "(' As The World Caves In ', ' Matt Maltese ')"
+    ],
+    "['THREE', 'FOUR']": [
+        "(' Just Like Heaven ', ' The Cure ')"
+    ],
+    "['FOUR', 'SIX', 'FOUR', 'ONE']": [
+        "(' Story Of My Life ', ' One Direction ')"
+    ],
+    "['FOUR', 'ONE', 'SIX', 'ONE', 'FIVE', 'ONE', 'FIVE', 'ONE']": [
+        "(' Theres Nothing Holdin Me Back ', ' Shawn Mendes ')"
+    ],
+    "['FOUR', 'ONE', 'SIX', 'ONE', 'FIVE', 'ONE', 'FIVE', 'ONE', 'FOUR', 'ONE', 'SIX', 'ONE', 'FIVE', 'ONE', 'FIVE']": [
+        "(' Theres Nothing Holdin Me Back ', ' Shawn Mendes ')"
+    ],
+    "['ONE', 'SIX', 'ONE', 'FIVE', 'ONE', 'FIVE', 'ONE', 'FOUR']": [
+        "(' Theres Nothing Holdin Me Back ', ' Shawn Mendes ')"
+    ],
+    "['MAJ TWO', 'FOUR', 'ONE', 'FIVE', 'FOUR']": [
+        "(' Tribute ', ' Tenacious D ')"
+    ],
+    "['SIX', 'FIVE', 'MAJ TWO', 'FOUR']": [
+        "(' Tribute ', ' Tenacious D ')"
+    ],
+    "['ONE', 'FOUR', 'FIVE', 'FIVE']": [
+        "(' All The Small Things ', ' Blink-182 ')"
+    ],
+    "['TWO', 'FIVE', 'ONE', 'MAJ FLAT SEVEN']": [
+        "(' The Chain ', ' Fleetwood Mac ')"
+    ],
+    "['TWO', 'TWO', 'SIX', 'FOUR', 'FIVE']": [
+        "(' The Chain ', ' Fleetwood Mac ')"
+    ],
+    "['SIX', 'ONE', 'THREE']": [
+        "(' The Chain ', ' Fleetwood Mac ')",
+        "(' Hells Comin With Me ', \" Poor Man\\\\'s Poison \")"
+    ],
+    "['FIVE', 'FOUR', 'FIVE', 'ONE', 'SIX']": [
+        "(' My Kind Of Woman ', ' Mac DeMarco ')"
+    ],
+    "['ONE', 'TWO', 'THREE', 'FOUR', 'TWO']": [
+        "(' My Kind Of Woman ', ' Mac DeMarco ')"
+    ],
+    "['FIVE', 'ONE', 'THREE', 'FOUR']": [
+        "(' Mamma Mia - Our Last Summer ', ' Misc Soundtrack ')"
+    ],
+    "['ONE', 'THREE', 'SIX', 'FOUR', 'MAJ FLAT SIX', 'MAJ FLAT SEVEN', 'FIVE', 'MAJ FLAT SEVEN']": [
+        "(' Lithium ', ' Nirvana ')"
+    ],
+    "['FIVE', 'MAJ FLAT SEVEN']": [
+        "(' Lithium ', ' Nirvana ')"
+    ],
+    "['MAJ TWO', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Old Town Road ', ' Lil Nas X ')"
+    ],
+    "['ONE', 'FOUR', 'ONE', 'FIVE', 'ONE']": [
+        "(' How Great Thou Art ', ' Charlie Hall ')"
+    ],
+    "['FOUR', 'ONE', 'TWO', 'FOUR', 'ONE', 'FOUR']": [
+        "(' Ob-La-Di Ob-La-Da ', ' The Beatles ')"
+    ],
+    "['FOUR', 'SIX', 'FIVE', 'FIVE']": [
+        "(' Times Like These ', ' Foo Fighters ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'TWO', 'FIVE', 'FLAT SIX']": [
+        "(' Separate Ways ', ' Journey ')"
+    ],
+    "['SIX', 'SIX', 'FIVE', 'FIVE', 'FOUR', 'FOUR', 'TWO', 'FIVE', 'FLAT SIX']": [
+        "(' Separate Ways ', ' Journey ')"
+    ],
+    "['ONE', 'TWO', 'FOUR', 'ONE']": [
+        "(' Marry You ', ' Bruno Mars ')"
+    ],
+    "['FIVE', 'MAJ THREE', 'SIX', 'FOUR']": [
+        "(' Umbrella ', ' Rihanna ')"
+    ],
+    "['FOUR', 'ONE', 'ONE', 'MAJ SIX']": [
+        "(' Everlong ', ' Foo Fighters ')"
+    ],
+    "['ONE', 'MAJ THREE', 'SIX', 'FIVE']": [
+        "(' Santeria ', ' Sublime ')",
+        "(' Off My Face ', ' Justin Bieber ')"
+    ],
+    "['FOUR', 'ONE', 'THREE']": [
+        "(' Amarillo By Morning ', ' George Strait ')"
+    ],
+    "['MAJ FLAT SEVEN', 'FIVE', 'FIVE', 'FIVE', 'FIVE', 'FIVE']": [
+        "(' Old Man ', ' Neil Young ')"
+    ],
+    "['FIVE', 'TWO', 'SIX', 'ONE']": [
+        "(' Old Man ', ' Neil Young ')"
+    ],
+    "['ONE', 'FIVE', 'ONE']": [
+        "(' Bam Bam ', ' Camila Cabello ')",
+        "(' Youll Be In My Heart ', ' Phil Collins ')"
+    ],
+    "['FIVE', 'FOUR', 'FIVE', 'ONE']": [
+        "(' When You Say Nothing At All ', ' Ronan Keating ')"
+    ],
+    "['FIVE', 'ONE', 'THREE', 'MAJ FLAT THREE', 'MAJ TWO', 'TWO', 'SIX', 'MIN ONE']": [
+        "(' Life On Mars ', ' David Bowie ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR', 'FOUR', 'ONE']": [
+        "(' Go Your Own Way ', ' Fleetwood Mac ')"
+    ],
+    "['ONE', 'ONE', 'SIX', 'FIVE', 'FOUR']": [
+        "(' Astronomy ', ' Conan Gray ')"
+    ],
+    "['ONE', 'THREE', 'FOUR', 'MIN FOUR']": [
+        "(' Until I Found You ', ' Stephen Sanchez ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Top Gun Maverick - Hold My Hand ', ' Misc Soundtrack ')"
+    ],
+    "['ONE', 'FIVE', 'FOUR', 'ONE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Cleopatra ', ' The Lumineers ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'MAJ THREE', 'SIX', 'FOUR', 'ONE', 'FIVE', 'MAJ THREE']": [
+        "(' Holiday ', ' Green Day ')"
+    ],
+    "['MAJ THREE', 'MAJ THREE']": [
+        "(' Holiday ', ' Green Day ')"
+    ],
+    "['MAJ TWO', 'FOUR', 'MAJ FLAT SEVEN', 'FIVE', 'ONE', 'MAJ SIX', 'MAJ TWO', 'FOUR', 'ONE', 'MAJ SIX', 'MAJ TWO']": [
+        "(' Holiday ', ' Green Day ')"
+    ],
+    "['TWO', 'FIVE', 'ONE', 'SIX']": [
+        "(' Wish You Were Gay ', ' Billie Eilish ')",
+        "(' Halleys Comet ', ' Billie Eilish ')"
+    ],
+    "['FIVE', 'FLAT SIX', 'SIX', 'FOUR', 'ONE']": [
+        "(' Wasted On You ', ' Morgan Wallen ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'FIVE', 'FLAT SIX']": [
+        "(' Wasted On You ', ' Morgan Wallen ')"
+    ],
+    "['SIX', 'FOUR', 'FIVE', 'ONE', 'FIVE']": [
+        "(' Stan ', ' Eminem ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'TWO']": [
+        "(' Breakeven ', ' The Script ')"
+    ],
+    "['FIVE', 'ONE', 'FIVE', 'FOUR', 'SIX']": [
+        "(' The Neverending Story ', ' Limahl ')"
+    ],
+    "['MAJ FLAT TWO', 'ONE']": [
+        "(' The Girl From Ipanema ', ' Frank Sinatra ')"
+    ],
+    "['ONE', 'MAJ FLAT SEVEN', 'FOUR', 'FOUR', 'TWO', 'FIVE', 'FLAT SIX', 'SIX', 'FOUR', 'FIVE', 'FIVE', 'FOUR', 'ONE', 'MAJ TWO', 'MAJ TWO', 'FIVE', 'ONE', 'SIX', 'TWO', 'FIVE', 'ONE']": [
+        "(' Carolina In My Mind ', ' James Taylor ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'FOUR', 'SIX', 'FIVE', 'FOUR']": [
+        "(' Treat You Better ', ' Shawn Mendes ')"
+    ],
+    "['SIX', 'ONE', 'FOUR', 'ONE']": [
+        "(' Lost Boy ', ' Ruth B. ')"
+    ],
+    "['THREE', 'FIVE', 'ONE', 'FIVE']": [
+        "(' Lost Boy ', ' Ruth B. ')",
+        "(' See You Again ', ' Wiz Khalifa ')",
+        "(' Promises ', ' Maverick City Music ')"
+    ],
+    "['ONE', 'TWO', 'FIVE', 'ONE']": [
+        "(' Sunday Morning ', ' Maroon 5 ')",
+        "(' Above All ', ' Michael W. Smith ')"
+    ],
+    "['THREE', 'TWO', 'FIVE']": [
+        "(' Dont Speak ', ' No Doubt ')"
+    ],
+    "['SIX', 'TWO', 'FIVE', 'MAJ THREE', 'TWO', 'MAJ THREE', 'SIX', 'TWO', 'MAJ THREE']": [
+        "(' Dont Speak ', ' No Doubt ')"
+    ],
+    "['SIX', 'THREE', 'TWO', 'FIVE']": [
+        "(' Dont Speak ', ' No Doubt ')"
+    ],
+    "['ONE', 'SIX', 'TWO', 'FOUR']": [
+        "(' Blank Space ', ' Taylor Swift ')"
+    ],
+    "['ONE', 'TWO', 'FOUR', 'ONE', 'ONE', 'ONE', 'FOUR', 'ONE', 'ONE', 'FOUR', 'TWO', 'TWO', 'FIVE']": [
+        "(' Both Sides Now ', ' Joni Mitchell ')"
+    ],
+    "['ONE', 'FOUR', 'ONE', 'FIVE', 'FIVE']": [
+        "(' I Will Wait ', ' Mumford & Sons ')"
+    ],
+    "['ONE', 'THREE', 'FIVE']": [
+        "(' I Will Wait ', ' Mumford & Sons ')",
+        "(' Fine Line ', ' Harry Styles ')"
+    ],
+    "['ONE', 'FIVE', 'TWO', 'TWO', 'FIVE', 'ONE']": [
+        "(' With A Little Help From My Friends ', ' The Beatles ')"
+    ],
+    "['THREE', 'MAJ SIX', 'FIVE', 'FOUR', 'ONE']": [
+        "(' With A Little Help From My Friends ', ' The Beatles ')"
+    ],
+    "['ONE', 'MAJ SIX', 'FOUR', 'MAJ SIX']": [
+        "(' Everlong ', ' Foo Fighters ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'SIX', 'FOUR', 'FIVE', 'ONE', 'FOUR', 'FIVE', 'ONE', 'SIX', 'FOUR', 'ONE', 'FIVE']": [
+        "(' 2441139 Bela Bose ', ' Anjan Dutt ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'ONE', 'FIVE', 'ONE', 'FOUR', 'FIVE']": [
+        "(' Lego House ', ' Ed Sheeran ')"
+    ],
+    "['FIVE', 'FLAT SEVEN', 'THREE', 'ONE', 'FOUR']": [
+        "(' Help ', ' The Beatles ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'FIVE', 'SIX', 'FIVE']": [
+        "(' Off My Face ', ' Justin Bieber ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'ONE', 'FOUR', 'ONE', 'SIX', 'FIVE']": [
+        "(' Off My Face ', ' Justin Bieber ')"
+    ],
+    "['ONE', 'MAJ THREE', 'FOUR', 'FIVE']": [
+        "(' First Love Late Spring ', ' Mitski ')",
+        "(' Boys Will Be Bugs ', ' cavetown ')"
+    ],
+    "['ONE', 'MAJ THREE', 'FOUR', 'FIVE', 'SIX', 'FLAT SIX']": [
+        "(' First Love Late Spring ', ' Mitski ')"
+    ],
+    "['MAJ THREE', 'ONE']": [
+        "(' Strawberry Fields Forever ', ' The Beatles ')"
+    ],
+    "['ONE', 'FOUR', 'SIX', 'FOUR']": [
+        "(' Falling Slowly ', ' Glen Hansard ')"
+    ],
+    "['ONE', 'MAJ TWO', 'FOUR', 'FIVE']": [
+        "(' American Girl ', ' Tom Petty and The Heartbreakers ')"
+    ],
+    "['FOUR', 'FOUR', 'FOUR', 'FOUR', 'MAJ FLAT FIVE', 'FIVE', 'ONE']": [
+        "(' American Girl ', ' Tom Petty and The Heartbreakers ')"
+    ],
+    "['FIVE', 'TWO', 'TWO', 'ONE', 'MIN ONE']": [
+        "(' Gratitude ', ' Brandon Lake ')"
+    ],
+    "['MAJ FLAT SEVEN', 'SIX', 'MAJ THREE', 'ONE', 'TWO', 'SIX', 'TWO', 'ONE', 'ONE']": [
+        "(' Take Me To Church ', ' Hozier ')"
+    ],
+    "['SIX', 'FIVE', 'FOUR', 'ONE', 'MAJ THREE']": [
+        "(' Stolen Dance ', ' Milky Chance ')"
+    ],
+    "['FOUR', 'ONE', 'MAJ THREE', 'SIX', 'FIVE']": [
+        "(' Stolen Dance ', ' Milky Chance ')"
+    ],
+    "['SIX', 'TWO', 'THREE']": [
+        "(' I Wanna Be Yours ', ' Arctic Monkeys ')"
+    ],
+    "['ONE', 'ONE', 'FIVE', 'FIVE']": [
+        "(' Take It Easy ', ' Eagles ')"
+    ],
+    "['SIX', 'FIVE', 'ONE', 'THREE', 'FOUR']": [
+        "(' If The World Was Ending ', ' JP Saxe ')"
+    ],
+    "['SIX', 'FIVE', 'SIX', 'FOUR', 'FIVE']": [
+        "(' Here Without You ', ' 3 Doors Down ')",
+        "(' Down Under ', ' Men at Work ')"
+    ],
+    "['ONE', 'SIX', 'FOUR', 'FIVE', 'ONE', 'SIX', 'FIVE']": [
+        "(' Unchained Melody ', ' The Righteous Brothers ')"
+    ],
+    "['FOUR', 'FIVE', 'FOUR', 'MAJ FLAT THREE', 'FOUR', 'FIVE', 'ONE']": [
+        "(' Unchained Melody ', ' The Righteous Brothers ')"
+    ],
+    "['FIVE', 'ONE', 'THREE']": [
+        "(' Fine Line ', ' Harry Styles ')"
+    ],
+    "['ONE', 'ONE', 'TWO', 'TWO']": [
+        "(' Upside Down ', ' Jack Johnson ')"
+    ],
+    "['FOUR', 'ONE', 'FOUR', 'FIVE', 'ONE', 'FOUR', 'FIVE', 'ONE']": [
+        "(' In Christ Alone ', ' Keith Getty ')"
+    ],
+    "['SIX', 'FLAT SEVEN', 'ONE', 'TWO', 'FOUR', 'FIVE', 'THREE', 'SIX', 'TWO', 'FOUR', 'FIVE', 'FIVE']": [
+        "(' Against All Odds ', ' Phil Collins ')"
+    ],
+    "['ONE', 'MAJ TWO', 'SIX', 'FOUR', 'TWO', 'FIVE', 'FIVE']": [
+        "(' Against All Odds ', ' Phil Collins ')"
+    ],
+    "['FIVE', 'TWO', 'TWO', 'SIX']": [
+        "(' Clocks ', ' Coldplay ')"
+    ],
+    "['SIX', 'MAJ THREE', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Angie ', ' The Rolling Stones ')"
+    ],
+    "['FOUR', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE', 'ONE']": [
+        "(' Cant Help Falling In Love ', ' twenty one pilots ')"
+    ],
+    "['ONE', 'FIVE', 'SIX', 'FOUR', 'MIN FOUR', 'FIVE', 'ONE', 'FIVE', 'SIX', 'FOUR', 'MIN FOUR', 'FOUR', 'FIVE']": [
+        "(' Encanto - Dos Oruguitas ', ' Misc Cartoons ')"
+    ],
+    "['FIVE', 'TWO', 'FIVE', 'MAJ FLAT SEVEN']": [
+        "(' Happy Together ', ' The Turtles ')"
+    ],
+    "['FIVE', 'MIN ONE']": [
+        "(' Happy Together ', ' The Turtles ')"
+    ],
+    "['ONE', 'MAJ THREE', 'FOUR', 'THREE', 'TWO', 'FIVE']": [
+        "(' Mardy Bum ', ' Arctic Monkeys ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'FIVE', 'SIX']": [
+        "(' Mardy Bum ', ' Arctic Monkeys ')"
+    ],
+    "['TWO', 'FIVE', 'SIX', 'FOUR']": [
+        "(' Lost On You ', ' LP ')"
+    ],
+    "['FIVE', 'MAJ TWO', 'MAJ SIX', 'FIVE', 'MAJ SIX']": [
+        "(' Back In Black ', ' AC/DC ')"
+    ],
+    "['FOUR', 'ONE', 'FIVE', 'FOUR', 'FIVE', 'FOUR']": [
+        "(' Back In Black ', ' AC/DC ')"
+    ],
+    "['ONE', 'FOUR', 'FIVE', 'THREE', 'SIX', 'FOUR', 'MAJ FLAT SEVEN', 'FIVE']": [
+        "(' Youll Be In My Heart ', ' Phil Collins ')"
+    ],
+    "['MAJ TWO', 'FIVE', 'FOUR']": [
+        "(' For What Its Worth ', ' Buffalo Springfield ')"
+    ],
+    "['FIVE', 'FOUR', 'ONE', 'MAJ FLAT THREE', 'MAJ TWO']": [
+        "(' Plush ', ' Stone Temple Pilots ')"
+    ],
+    "['TWO', 'FOUR', 'ONE', 'ONE', 'ONE']": [
+        "(' High And Dry ', ' Radiohead ')"
+    ],
+    "['TWO', 'FOUR', 'ONE']": [
+        "(' High And Dry ', ' Radiohead ')"
+    ],
+    "['THREE', 'ONE', 'SIX']": [
+        "(' Whyd You Only Call Me When Youre High ', ' Arctic Monkeys ')"
+    ],
+    "['ONE', 'ONE', 'SIX', 'SIX', 'THREE', 'THREE', 'THREE', 'THREE']": [
+        "(' Bellyache ', ' Billie Eilish ')"
+    ],
+    "['THREE', 'ONE', 'ONE', 'SIX', 'SIX', 'THREE', 'THREE', 'THREE']": [
+        "(' Bellyache ', ' Billie Eilish ')"
+    ],
+    "['THREE', 'THREE']": [
+        "(' Bellyache ', ' Billie Eilish ')"
+    ],
+    "['ONE', 'SIX', 'THREE']": [
+        "(' Bellyache ', ' Billie Eilish ')"
+    ],
+    "['ONE', 'FOUR', 'THREE']": [
+        "(' Sweet Creature ', ' Harry Styles ')"
+    ],
+    "['ONE', 'FOUR', 'THREE', 'ONE', 'SIX', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Sweet Creature ', ' Harry Styles ')"
+    ],
+    "['THREE', 'THREE', 'ONE', 'THREE']": [
+        "(' Eleanor Rigby ', ' The Beatles ')"
+    ],
+    "['THREE', 'ONE', 'ONE', 'THREE']": [
+        "(' Eleanor Rigby ', ' The Beatles ')"
+    ],
+    "['SIX', 'FOUR', 'FIVE', 'ONE', 'FOUR', 'FIVE']": [
+        "(' Livin On A Prayer ', ' Bon Jovi ')"
+    ],
+    "['FOUR', 'FIVE', 'THREE', 'SIX', 'FOUR', 'FIVE', 'MAJ THREE', 'SIX']": [
+        "(' Never Gonna Give You Up ', ' Foo Fighters ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'SIX', 'FIVE', 'ONE']": [
+        "(' No Longer Slaves ', ' Bethel Music ')"
+    ],
+    "['ONE', 'THREE', 'FOUR', 'FIVE', 'ONE']": [
+        "(' No Longer Slaves ', ' Bethel Music ')"
+    ],
+    "['FIVE', 'ONE', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Chicken Fried ', ' Zac Brown Band ')"
+    ],
+    "['MAJ THREE', 'SIX', 'TWO', 'FLAT SEVEN']": [
+        "(' This Love ', ' Maroon 5 ')"
+    ],
+    "['SIX', 'SIX', 'ONE', 'ONE', 'ONE', 'ONE']": [
+        "(' Ghost Riders In The Sky ', ' Johnny Cash ')"
+    ],
+    "['TWO', 'FOUR', 'SIX']": [
+        "(' Hells Comin With Me ', \" Poor Man\\\\'s Poison \")"
+    ],
+    "['ONE', 'MAJ THREE']": [
+        "(' Hells Comin With Me ', \" Poor Man\\\\'s Poison \")",
+        "(' Under The Bridge ', ' Red Hot Chili Peppers ')"
+    ],
+    "['ONE', 'ONE', 'FOUR', 'FOUR', 'FIVE']": [
+        "(' Touch Tank ', ' Quinnie ')"
+    ],
+    "['ONE', 'SIX', 'TWO', 'FIVE', 'THREE', 'SIX', 'TWO', 'FIVE']": [
+        "(' Lucky ', ' Jason Mraz ')"
+    ],
+    "['SIX', 'TWO', 'FIVE', 'ONE', 'SIX', 'TWO', 'FIVE']": [
+        "(' Lucky ', ' Jason Mraz ')"
+    ],
+    "['TWO', 'SIX', 'FIVE', 'SIX']": [
+        "(' Lucky ', ' Jason Mraz ')"
+    ],
+    "['FIVE', 'FOUR', 'ONE', 'MAJ FLAT SEVEN', 'FIVE', 'FIVE']": [
+        "(' No Rain ', ' Blind Melon ')"
+    ],
+    "['ONE', 'SIX', 'ONE', 'SIX', 'FOUR', 'ONE']": [
+        "(' Rivers And Roads ', ' The Head and the Heart ')"
+    ],
+    "['THREE', 'TWO']": [
+        "(' Boys Dont Cry ', ' The Cure ')"
+    ],
+    "['ONE', 'TWO', 'THREE', 'FOUR', 'FOUR', 'THREE', 'TWO']": [
+        "(' Boys Dont Cry ', ' The Cure ')"
+    ],
+    "['MAJ FLAT SEVEN', 'FOUR', 'ONE', 'FIVE', 'MAJ TWO', 'MAJ TWO']": [
+        "(' Hey Joe ', ' Jimi Hendrix ')"
+    ],
+    "['MAJ FLAT SEVEN', 'FOUR', 'ONE', 'FIVE', 'MAJ TWO']": [
+        "(' Hey Joe ', ' Jimi Hendrix ')"
+    ],
+    "['TWO', 'FOUR', 'ONE', 'FIVE', 'FIVE', 'FIVE']": [
+        "(' Green Eyes ', ' Coldplay ')"
+    ],
+    "['FIVE', 'THREE', 'FOUR']": [
+        "(' Wheres My Love ', ' SYML ')"
+    ],
+    "['ONE', 'ONE', 'FOUR', 'ONE', 'FIVE', 'SIX', 'FOUR', 'ONE']": [
+        "(' Stuck In A Moment You Cant Get Out Of ', ' U2 ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'THREE', 'MAJ THREE']": [
+        "(' Unstoppable ', ' Sia ')"
+    ],
+    "['ONE', 'FOUR', 'SIX', 'FIVE', 'FOUR']": [
+        "(' This Is Amazing Grace ', ' Phil Wickham ')"
+    ],
+    "['FOUR', 'ONE', 'FOUR', 'FIVE']": [
+        "(' Touch Tank ', ' Quinnie ')"
+    ],
+    "['ONE', 'ONE', 'FOUR', 'FOUR', 'SIX', 'FIVE', 'FOUR', 'FIVE', 'ONE']": [
+        "(' Little Things ', ' One Direction ')"
+    ],
+    "['SIX', 'ONE', 'FIVE', 'THREE', 'SIX', 'SIX', 'ONE', 'FIVE', 'MAJ THREE', 'SIX']": [
+        "(' The Unforgiven ', ' Metallica ')"
+    ],
+    "['ONE', 'FIVE', 'MAJ THREE', 'SIX', 'ONE', 'FIVE', 'THREE', 'SIX']": [
+        "(' The Unforgiven ', ' Metallica ')"
+    ],
+    "['FIVE', 'MAJ TWO']": [
+        "(' To Be With You ', ' Mr. Big ')"
+    ],
+    "['ONE', 'TWO', 'FIVE']": [
+        "(' I Dont Want To Talk About It ', ' Rod Stewart ')"
+    ],
+    "['FOUR', 'FIVE', 'ONE', 'FIVE', 'SIX', 'FOUR', 'FIVE', 'FOUR', 'FIVE', 'TWO', 'FIVE', 'ONE']": [
+        "(' I Dont Want To Talk About It ', ' Rod Stewart ')"
+    ],
+    "['ONE', 'ONE', 'ONE', 'FOUR', 'FIVE', 'FIVE']": [
+        "(' Here Comes The Sun ', ' The Beatles ')"
+    ],
+    "['ONE', 'FIVE', 'MAJ THREE', 'FOUR']": [
+        "(' Boys Will Be Bugs ', ' cavetown ')"
+    ],
+    "['MAJ TWO', 'FOUR']": [
+        "(' Boys Will Be Bugs ', ' cavetown ')"
+    ],
+    "['ONE', 'MAJ THREE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Halleys Comet ', ' Billie Eilish ')"
+    ],
+    "['MAJ SIX', 'ONE', 'FIVE', 'FOUR']": [
+        "(' Under The Bridge ', ' Red Hot Chili Peppers ')"
+    ],
+    "['SIX', 'SIX', 'SIX', 'TWO']": [
+        "(' Dream On ', ' Aerosmith ')"
+    ],
+    "['THREE', 'THREE', 'THREE', 'SIX']": [
+        "(' Dream On ', ' Aerosmith ')"
+    ],
+    "['TWO', 'MAJ THREE', 'FOUR', 'FIVE', 'SIX']": [
+        "(' Dream On ', ' Aerosmith ')"
+    ],
+    "['ONE', 'TWO', 'FIVE', 'FOUR', 'THREE', 'TWO']": [
+        "(' My Girl ', ' The Temptations ')"
+    ],
+    "['FOUR', 'SIX', 'TWO', 'SIX']": [
+        "(' Keep Driving ', ' Harry Styles ')"
+    ],
+    "['THREE', 'FOUR', 'FIVE', 'SIX', 'ONE']": [
+        "(' Keep Driving ', ' Harry Styles ')"
+    ],
+    "['FOUR', 'ONE', 'FIVE', 'ONE', 'FOUR', 'ONE', 'FIVE']": [
+        "(' Wildflowers ', ' Tom Petty ')"
+    ],
+    "['FIVE', 'SIX', 'FIVE', 'FOUR', 'ONE', 'TWO']": [
+        "(' Locked Out Of Heaven ', ' Bruno Mars ')"
+    ],
+    "['FOUR', 'TWO', 'ONE', 'FIVE']": [
+        "(' Locked Out Of Heaven ', ' Bruno Mars ')"
+    ],
+    "['ONE', 'FOUR', 'FIVE', 'SIX', 'MIN FOUR']": [
+        "(' I Will ', ' The Beatles ')"
+    ],
+    "['FIVE', 'ONE', 'FIVE', 'FOUR', 'FIVE']": [
+        "(' A Hard Days Night ', ' The Beatles ')"
+    ],
+    "['MAJ TWO', 'TWO']": [
+        "(' A Hard Days Night ', ' The Beatles ')"
+    ],
+    "['ONE', 'FOUR', 'SIX', 'FOUR', 'ONE']": [
+        "(' Just Give Me A Reason ', ' P!nk ')"
+    ],
+    "['FOUR', 'ONE', 'TWO', 'SIX', 'ONE']": [
+        "(' Just Give Me A Reason ', ' P!nk ')"
+    ],
+    "['FOUR', 'THREE', 'TWO', 'THREE', 'SIX']": [
+        "(' September ', ' Earth, Wind & Fire ')"
+    ],
+    "['TWO', 'FIVE', 'THREE', 'SIX']": [
+        "(' September ', ' Earth, Wind & Fire ')"
+    ],
+    "['FOUR', 'ONE', 'MAJ TWO']": [
+        "(' Kiss From A Rose ', ' Seal ')"
+    ],
+    "['MAJ SIX', 'FOUR', 'FIVE']": [
+        "(' Kiss From A Rose ', ' Seal ')"
+    ],
+    "['SIX', 'THREE', 'TWO', 'SIX']": [
+        "(' Levitating ', ' Dua Lipa ')"
+    ],
+    "['ONE', 'SIX', 'THREE', 'FOUR', 'FIVE', 'FIVE']": [
+        "(' Nothing New ', ' Taylor Swift ')"
+    ],
+    "['ONE', 'ONE', 'THREE', 'FOUR']": [
+        "(' Use Somebody ', ' Kings of Leon ')"
+    ],
+    "['SIX', 'SIX', 'ONE', 'FIVE', 'THREE', 'FOUR']": [
+        "(' So Far Away ', ' Avenged Sevenfold ')"
+    ],
+    "['ONE', 'MAJ FLAT SEVEN', 'FOUR', 'TWO']": [
+        "(' Closing Time ', ' Semisonic ')"
+    ],
+    "['MAJ TWO', 'ONE', 'FIVE', 'MAJ FLAT SEVEN']": [
+        "(' Polly ', ' Nirvana ')"
+    ],
+    "['MAJ FLAT SEVEN', 'MAJ THREE', 'MAJ THREE', 'MAJ SIX']": [
+        "(' Man In The Mirror ', ' Michael Jackson ')"
+    ],
+    "['FOUR', 'FIVE', 'THREE', 'SIX', 'FIVE']": [
+        "(' I Say A Little Prayer ', ' Aretha Franklin ')",
+        "(' It Will Rain ', ' Bruno Mars ')"
+    ],
+    "['FIVE', 'MAJ TWO', 'ONE']": [
+        "(' Behind Blue Eyes ', ' The Who ')"
+    ],
+    "['MAJ SIX', 'MAJ SIX', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Behind Blue Eyes ', ' The Who ')"
+    ],
+    "['FLAT FIVE', 'MAJ THREE']": [
+        "(' Total Eclipse Of The Heart ', ' Bonnie Tyler ')"
+    ],
+    "['ONE', 'FOUR', 'ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'FIVE', 'ONE']": [
+        "(' The Blessing ', ' Elevation Worship ')"
+    ],
+    "['TWO', 'FOUR', 'ONE', 'FIVE', 'TWO', 'MIN FIVE', 'TWO', 'ONE', 'FOUR', 'ONE']": [
+        "(' Black Summer ', ' Red Hot Chili Peppers ')"
+    ],
+    "['FIVE', 'THREE', 'THREE']": [
+        "(' Footnote ', ' Conan Gray ')"
+    ],
+    "['ONE', 'ONE', 'SIX', 'FIVE', 'FOUR', 'MIN FOUR', 'ONE']": [
+        "(' Wake Me Up When September Ends ', ' Green Day ')"
+    ],
+    "['ONE', 'TWO', 'THREE', 'TWO', 'FIVE']": [
+        "(' If I Fell ', ' The Beatles ')"
+    ],
+    "['TWO', 'ONE', 'TWO']": [
+        "(' Stayin Alive ', ' Bee Gees ')"
+    ],
+    "['ONE', 'ONE', 'FIVE', 'SIX', 'SIX', 'THREE', 'FOUR', 'FIVE', 'ONE']": [
+        "(' 2002 ', ' Anne-Marie ')"
+    ],
+    "['TWO', 'TWO', 'ONE', 'TWO']": [
+        "(' Gimme Gimme Gimme ', ' ABBA ')"
+    ],
+    "['SIX', 'FOUR', 'FIVE', 'SIX', 'FOUR', 'SIX', 'FIVE', 'SIX']": [
+        "(' Gimme Gimme Gimme ', ' ABBA ')"
+    ],
+    "['FIVE', 'MAJ TWO', 'FOUR', 'ONE', 'FIVE', 'ONE', 'FOUR', 'ONE']": [
+        "(' Youve Got To Hide Your Love Away ', ' The Beatles ')"
+    ],
+    "['ONE', 'FIVE', 'MAJ FLAT SEVEN', 'FOUR', 'ONE', 'FOUR', 'MAJ FLAT SEVEN', 'FOUR']": [
+        "(' Youve Got To Hide Your Love Away ', ' The Beatles ')"
+    ],
+    "['ONE', 'FOUR', 'FIVE', 'FIVE', 'FIVE', 'FIVE']": [
+        "(' Youve Got To Hide Your Love Away ', ' The Beatles ')"
+    ],
+    "['ONE', 'ONE', 'SIX', 'SIX']": [
+        "(' Sex On Fire ', ' Kings of Leon ')"
+    ],
+    "['ONE', 'SIX', 'FOUR', 'TWO', 'FIVE']": [
+        "(' I Wanna Dance With Somebody Who Loves Me ', ' Whitney Houston ')"
+    ],
+    "['FOUR', 'FIVE', 'SIX', 'FIVE']": [
+        "(' Exile ', ' Taylor Swift ')"
+    ],
+    "['SIX', 'FOUR', 'ONE', 'FIVE', 'SIX', 'FOUR', 'ONE', 'MAJ THREE', 'SIX', 'FOUR', 'ONE', 'FIVE', 'SIX', 'FOUR', 'ONE']": [
+        "(' Wake Me Up ', ' Avicii ')"
+    ],
+    "['FOUR', 'SIX', 'FIVE', 'FOUR']": [
+        "(' Disarm ', ' The Smashing Pumpkins ')"
+    ],
+    "['FIVE', 'SIX', 'FOUR', 'FIVE']": [
+        "(' Disarm ', ' The Smashing Pumpkins ')"
+    ],
+    "['ONE', 'FOUR', 'FOUR', 'ONE']": [
+        "(' Ripple ', ' Grateful Dead ')"
+    ],
+    "['ONE', 'FOUR', 'FOUR', 'ONE', 'ONE', 'FOUR', 'ONE', 'FIVE', 'FOUR', 'ONE']": [
+        "(' Ripple ', ' Grateful Dead ')"
+    ],
+    "['FIVE', 'ONE', 'FOUR', 'FIVE']": [
+        "(' Sundown ', ' Gordon Lightfoot ')"
+    ],
+    "['ONE', 'SIX', 'ONE']": [
+        "(' Cherry Wine ', ' Hozier ')"
+    ],
+    "['MAJ THREE', 'ONE', 'FOUR', 'ONE']": [
+        "(' Washing Machine Heart ', ' Mitski ')"
+    ],
+    "['ONE', 'FOUR', 'FIVE', 'MAJ SIX']": [
+        "(' Hey Ya ', ' OutKast ')"
+    ],
+    "['TWO', 'FOUR', 'SIX', 'SIX', 'FLAT SIX', 'MIN FIVE', 'ONE']": [
+        "(' Me And Your Mama ', ' Childish Gambino ')"
+    ],
+    "['MAJ SIX', 'FOUR']": [
+        "(' Somethin Stupid ', ' Frank Sinatra ')"
+    ],
+    "['SIX', 'THREE', 'SIX', 'MAJ TWO']": [
+        "(' The Little Mermaid - Part Of Your World ', ' Misc Cartoons ')"
+    ],
+    "['ONE', 'ONE', 'FOUR', 'ONE', 'FIVE', 'SIX', 'FOUR']": [
+        "(' Moon Song ', ' Phoebe Bridgers ')"
+    ],
+    "['ONE', 'ONE', 'SIX', 'FIVE', 'FOUR', 'THREE', 'TWO', 'FIVE']": [
+        "(' Memories ', ' Conan Gray ')"
+    ],
+    "['ONE', 'THREE', 'SIX', 'FIVE', 'FOUR', 'TWO', 'FOUR', 'FIVE']": [
+        "(' Memories ', ' Conan Gray ')"
+    ],
+    "['ONE', 'ONE', 'SIX', 'FIVE', 'MAJ THREE', 'FOUR']": [
+        "(' Memories ', ' Conan Gray ')"
+    ],
+    "['FIVE', 'ONE', 'FIVE', 'THREE', 'FIVE', 'ONE']": [
+        "(' Broken Halos ', ' Chris Stapleton ')"
+    ],
+    "['FIVE', 'ONE', 'FIVE', 'THREE']": [
+        "(' Broken Halos ', ' Chris Stapleton ')"
+    ]
+}
