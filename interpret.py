@@ -4,15 +4,7 @@ from operator import itemgetter
 
 from get_chord_progression import get_chord_progression
 
-def get_df():
-    with open('./data_creation/data/results.txt') as f:
-        lines = f.readlines()
-    return pd.DataFrame( [line.split('|') for line in lines])
 
-df = get_df()
-def get_song(i):
-    row = df.iloc[i]
-    return row[1], row[2], row[3].replace("'", '').replace(" ", '').replace("[", "").replace("]","").replace("\n", "").split(',')
 
 
 notes = ["C", "C#", "D","D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
@@ -91,6 +83,8 @@ def get_relative_information(key, chord_name):
 def get_relative_chords(chords):
     return [get_relative_information(get_key(chords)[0], chord) for chord in chords]
 
+
+
 def display(half_steps_from_root, is_minor, extension):
     root = {
         0: "ONE",
@@ -112,36 +106,9 @@ def display(half_steps_from_root, is_minor, extension):
     return f"{tonality} {root}"    
     
 
-
 def get_formatted_relative_chords(chords):
     return [display(x['half_steps_from_root'], x['is_minor'], x['extension']) for x in get_relative_chords(chords)]
 
-chords_to_songs = {}
-def add_song(chord_progression, song):
-    key = str(chord_progression['sub'])
-    if key in chords_to_songs.keys():
-        if song not in chords_to_songs[key]: 
-            chords_to_songs[key].append(song)
-    else:
-        chords_to_songs[key] = [song]
 
-for i in range(5000):
-    try:
-        name, artist, chords = get_song(i)
-        idxs = [i for i, v in enumerate(chords, 0) if "s_" in v]   # calculating indices
-        song = {chords[i]:chords[i+1:j] for i, j in zip(idxs, idxs[1:]+[len(chords)])}
-        for section in song: 
-            section_chords = song[section]
-            rel_chords = get_formatted_relative_chords(section_chords)
-            chord_progression = get_chord_progression(rel_chords)
-            if chord_progression:
-                add_song(chord_progression, str((name, artist)))
-    except:
-        print(name, artist)  
 
-    
-json_object = json.dumps(chords_to_songs, indent = 4)
-  
-# Writing to sample.json
-with open("progressions.json", "w") as outfile:
-    outfile.write(json_object)
+
