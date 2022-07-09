@@ -1,5 +1,4 @@
-from get_chord_progression import get_all_subsequences
-from interpret import get_formatted_relative_chords
+from interpret import ConcreteChordProgression
 import pandas as pd
 import pickle 
 
@@ -21,13 +20,16 @@ def get_root(song_num):
     for i in range(song_num):
         try:
             name, artist, chords = get_song(i)
-            chords.insert(0, 'section_start')
             idxs = [i for i, v in enumerate(chords, 0) if "s_" in v]   # calculating indices
             song = {chords[i]:chords[i+1:j] for i, j in zip(idxs, idxs[1:]+[len(chords)])}
             for section in song: 
                 section_chords = song[section]
-                rel_chords = get_formatted_relative_chords(section_chords)
-                subseqs = [rel_chords[i: i+5] for i in range(len(rel_chords)-1)]
+                if len(section_chords) == 0:
+                    continue
+                rel_chords = ConcreteChordProgression(section_chords).get_relative_progression()
+                rel_chords_list = rel_chords.get_formatted_relative_chords()
+                rel_chords_list.insert(0, 'section_start')
+                subseqs = [rel_chords_list[i: i+7] for i in range(len(rel_chords_list)-1)]
                 for seq in subseqs:
                     root.add_to_try(seq, str((name, artist, section)))
         except Exception as e:
