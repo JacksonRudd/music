@@ -80,7 +80,7 @@ class RelativeChord:
             Tonality.MAJOR: ["ONE", "FOUR", "FIVE"],
             Tonality.MINOR: ['TWO', "THREE", "SIX"],
         }        
-        return root_name if root_name in normal_tonality[self.tonality] else f"{self.tonality.name} {root_name}"
+        return root_name if root_name in normal_tonality[self.tonality] else f"{self.tonality.name}_{root_name}"
         
 class Chord:
     def __init__(self, chord_name):
